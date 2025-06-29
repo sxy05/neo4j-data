@@ -1,0 +1,360 @@
+﻿code, chinese_name, latin_name, english_name, location_description
+LU1,中府,Zhongfu,Central Mansion,"Below clavicle, 6 cun lateral to midline, level with 1st intercostal space"
+LU2,云门,Yunmen,Cloud Gate,"Below lateral clavicle in deltopectoral groove, 6 cun lateral to midline"
+LU3,天府,Tianfu,Heavenly Residence,"On radial side of biceps brachii, 3 cun inferior to anterior axillary fold"
+LU4,侠白,Xiabai,Guarding White,"On anterolateral upper arm, 4 cun below anterior axillary fold, lateral to biceps brachii"
+LU5,尺泽,Chize,Cubit Marsh,"Elbow crease, radial side of biceps tendon"
+LU6,孔最,Kongzui,Converging Hole,7 cun above wrist crease on radial side
+LU7,列缺,Lieque,Broken Sequence,"1.5 cun above wrist, radial styloid process"
+LU8,经渠,Jingqu,Channel Ditch,"On the anterolateral forearm, between radial styloid process and radial artery, 1 cun above LU9"
+LU9,太渊,Taiyuan,Great Abyss,"Radial end of wrist crease, radial artery pulse"
+LU10,鱼际,Yuji,Fish Border,"Midpoint of 1st metacarpal, thenar eminence"
+LU11,少商,Shaoshang,Lesser Shang,"Thumb radial side, 0.1 cun from nail corner"
+LI1,商阳,Shangyang,Shang Yang,"Index finger radial side, 0.1 cun from nail corner"
+LI2,二间,Erjian,Second Space,"Index finger radial side, distal to MCP joint"
+LI3,三间,Sanjian,Third Space,"Index finger radial side, proximal to MCP joint"
+LI4,合谷,Hegu,Large Intestine-4,"On the dorsum of the hand, radial to the midpoint of the second metacarpal bone."
+LI5,阳溪,Yangxi,Yang Ravine,Wrist radial side between tendons
+LI6,偏历,Pianli,Veering Passage,3 cun above Yangxi (LI5) on radial forearm
+LI7,温溜,Wenliu,Warm Flow,"On the posterolateral forearm, 5 cun above the dorsal wrist crease, on line LI5–LI11"
+LI8,下廉,Xialian,Lower Ridge,"On the posterolateral forearm, 4 cun below the cubital crease, 1 cun below LI9, on the line connecting LI5 to LI11"
+LI9,上廉,Shanglian,Upper Ridge,"On the posterolateral forearm, 3 cun below the cubital crease, on the line LI5–LI11"
+LI10,手三里,Shousanli,Arm Three Miles,2 cun below Quchi (LI11) on LI meridian
+LI11,曲池,Quchi,Crooked Pool,Lateral end of elbow crease when flexed
+LI12,肘髎,Zhouliao,Elbow Crevice,"On the posterolateral elbow, superior to the lateral epicondyle of humerus, anterior to the lateral supracondylar ridge"
+LI13,手五里,Shouwuli,Upper Arm Path,"On the lateral aspect of the upper arm, 3 cun above the cubital crease, on line LI11–LI15"
+LI14,臂臑,Binao,Upper Arm Pivot,"On the lateral side of the upper arm, 7 cun above LI11, anterior to the deltoid muscle"
+LI15,肩髃,Jianyu,Shoulder Bone,"In the depression anterior to the acromion, between lateral border of acromion and greater tubercle of humerus"
+LI16,巨骨,Jugu,Great Bone,"In the depression between the acromial end of clavicle and spine of scapula, lateral to suprascapular fossa"
+LI17,天鼎,Tianding,Celestial Tripod,"At anterior neck, level with cricoid cartilage, just posterior to sternocleidomastoid border; inferior to LI18, level with St10"
+LI18,扶突,Futu,Support Prominence,"At level of superior border of thyroid cartilage, between anterior and posterior borders of sternocleidomastoid muscle"
+LI19,口禾髎,Kouheliao,Mouth Grain Crevice,"At level of midpoint of philtrum, inferior to lateral nostril margin, 0.5 cun lateral to GV26"
+LI20,迎香,Yingxiang,Welcome Fragrance,"Nasolabial groove, level with ala nasi midpoint"
+ST1,承泣,Chengqi,Tear Container,"Below pupil, between eyeball and infraorbital ridge"
+ST2,四白,Sibai,Four Whites,"Below pupil, infraorbital foramen depression"
+ST3,巨髎,Juliao,Great Bone Hole,"Directly below pupil, level with inferior border of ala of nose, at vertical line of pupil intersecting horizontal line of ala nose"
+ST4,地仓,Dicang,Earth Granary,0.4 cun lateral to mouth corner
+ST5,大迎,Daying,Great Welcome,"Anterior to mandibular angle, in depression anterior to masseter attachment, over facial artery"
+ST6,颊车,Jiache,Cheek Bone,1 finger breadth anterior/superior to mandible angle
+ST7,下关 ,Xiaguan,Lower Gate,Anterior to mandibular condyle
+ST8,头维,Touwei,Head Corner,0.5 cun within hairline at temporal corner
+ST9,人迎,Renying,Person's Welcome,"Level with Adam's apple, lateral to carotid artery"
+ST10,水突,Shuitu,Water Prominence,"At level of cricoid cartilage, anterior to sternocleidomastoid border"
+ST11,气舍,Qishe,Qi Abode,"In the lesser supraclavicular fossa, superior to sternal end of clavicle, between sternal and clavicular heads of sternocleidomastoid muscle"
+ST12,缺盆,Quepen,Missing Basin,"In greater supraclavicular fossa, 4 cun lateral to anterior median line, above clavicle"
+ST13,气户,Qihu,Qi Door,"Inferior to clavicle, 4 cun lateral to anterior median line"
+ST14,库房,Kufang,Storehouse,"In the 1st intercostal space, 4 cun lateral to anterior median line"
+ST15,屋翳,Wuyi,Rooftop Shield,"In the 2nd intercostal space, 4 cun lateral to anterior median line"
+ST16,膺窗,Yingchuang,Chest Window,"In 3rd intercostal space, 4 cun lateral to anterior median line"
+ST17,乳中,Ruzhong,Middle of the Breast,At center of nipple (4th intercostal space in males)
+ST18,乳根,Rugen,Root of the Breast,"In 5th intercostal space, 4 cun lateral to anterior median line; nipple line intersection (male), midpoint of inferior breast crease (female)"
+ST19,不容,Burong,Not Contained,"6 cun superior to umbilicus center, 2 cun lateral to anterior median line"
+ST20,承满,Chengman,Supporting Fullness,"5 cun above umbilicus, 2 cun lateral to anterior median line"
+ST21,梁门,Liangmen,Beam Gate,"4 cun above umbilicus, 2 cun lateral to midline"
+ST22,梁门,Guanmen,Gate of the Pass,"3 cun above umbilicus, 2 cun lateral to anterior midline"
+ST23,太乙,Taiyi,Supreme Unity,"2 cun above umbilicus, 2 cun lateral to anterior midline"
+ST24,滑肉门,Huaroumen,Slippery Flesh Gate,"1 cun above umbilicus, 2 cun lateral to anterior midline"
+ST25,天枢,Tianshu,Celestial Pivot,2 cun lateral to umbilicus
+ST26,外陵,Wailing,Outer Mound,"1 cun below umbilicus, 2 cun lateral to anterior median line"
+ST27,大巨,Daju,Great Gigantic,"2 cun below umbilicus, 2 cun lateral to anterior median line"
+ST28,水道,Shuidao,Water Passage,"3 cun below umbilicus, 2 cun lateral to midline"
+ST29,归来,Guilai,Return,"4 cun below umbilicus, 2 cun lateral to midline"
+ST30,气冲,Qichong,Qi Thoroughfare,"5 cun below umbilicus, 2 cun lateral to midline"
+ST31,髀关,Biguan,Thigh Gate,At the intersection of the line from ASIS to lateral patella base and horizontal line of pubic symphysis
+ST32,伏兔,Futu,Crouching Rabbit,"6 cun above patella, on quadriceps muscle"
+ST33,阴市,Yinshi,Yin Market,"Lateral to rectus femoris tendon, 3 cun above base of patella"
+ST34,梁丘,Liangqiu,Hill Beam,"2 cun above patella, lateral edge of quadriceps"
+ST35,犊鼻,Dubi,Calf's Nose,"In the depression lateral to the patellar ligament, below patella when knee is flexed"
+ST36,足三里,Zusanli,Leg Three Miles,"3 cun below patella, 1 finger width lateral to tibia"
+ST37,上巨虚,Shangjuxu,Upper Great Void,"6 cun below patella, 1 finger width lateral to tibia"
+ST38,条口,Tiaokou,Line Opening,"8 cun inferior to ST35, on the line connecting ST35 and ST41, over tibialis anterior"
+ST39,下巨虚,Xiajuxu,Lower Great Void,"9 cun below patella, 1 finger width lateral to tibia"
+ST40,丰隆,Fenglong,Abundant Bulge,"8 cun superior to lateral malleolus, one fingerbreadth lateral to ST38"
+ST41,解溪,Jiexi,Ravine Divide,"Ankle crease midpoint, between tendons"
+ST42,冲阳,Chongyang,Surging Yang,"Dorsal foot, between 2nd/3rd metatarsals, arterial pulse"
+ST43,陷谷,Xiangu,Sinking Valley,"Distal to ST43, between 2nd/3rd metatarsal bases"
+ST44,内庭 ,Neiting,Inner Court,"Between 2nd/3rd toes, proximal to web margin"
+ST45,厉兑,Lidui,Sick Mouth,"2nd toe lateral side, 0.1 cun from nail corner"
+SP1,隐白,Yinbai,Hidden White,"Big toe medial side, 0.1 cun from nail corner"
+SP2,大都,Dadu,Great Capital,"Distal to the first metatarsophalangeal joint, at junction of red and white skin"
+SP3,太白,Taibai,Supreme White,"Proximal to first metatarsophalangeal joint, at junction of red and white skin"
+SP4,公孙,Gongsun,Yellow Emperor,"1 cun proximal to 1st metatarsal base, medial foot"
+SP5,商丘,Shangqiu,Shangqiu,At intersection of vertical line anterior to medial malleolus and horizontal line inferior to medial malleolus
+SP6,三阴交,Sanyinjiao,Three Yin Crossing,"3 cun above medial malleolus, posterior to tibia"
+SP7,漏谷,Lougu,Lougu,"6 cun above medial malleolus, posterior to medial tibia border"
+SP8,地机,Diji,Earth's Crux,"3 cun below SP9 (Yinlingquan), medial tibia"
+SP9,阴陵泉,Yinlingquan,Yin Mound Spring,"Medial knee, below tibial plateau"
+SP10,血海,Xuehai,Sea of Blood,"2 cun above medial knee, on vastus medialis"
+SP11,箕门,Jimen,Winnowing Gate,"At junction of upper one third and lower two thirds of line connecting medial patella base and SP12, between sartorius and adductor longus muscles"
+SP12,冲门,Chongmen,Rushing Gate,"At inguinal crease, lateral to femoral artery"
+SP13,府舍,Fushe,Abode Mansion,"4.3 cun below umbilicus, 4 cun lateral to anterior median line"
+SP14,腹结,Fujie,Abdomen Knot,"1.3 cun below umbilicus, 4 cun lateral to anterior median line"
+SP15,大横,Daheng,Great Horizontal,4 cun lateral to umbilicus
+SP16,腹哀,Fuai,Upper Abdomen Sorrow,"3 cun above umbilicus, 4 cun lateral to anterior median line"
+SP17,食窦,Shidou,Food Cavity,"5th intercostal space, 6 cun lateral to anterior median line"
+SP18,天溪,Tianxi,Celestial Stream,"4th intercostal space, 6 cun lateral to anterior median line"
+SP19,胸乡,Xiongxiang,Chest Village,"3rd intercostal space, 6 cun lateral to anterior median line"
+SP20,周荣,Zhourong,Zhourong,"2nd intercostal space, 6 cun lateral to anterior median line"
+SP21,大包,Dabao,Great Embrace,"Midaxillary line, 6th intercostal space"
+HT1,极泉,Jiquan,Supreme Spring,"Axillary apex, axillary artery pulse"
+HT2,青灵,Qingling,Green Spirit,"Medial arm, 3 cun above cubital crease, medial to biceps brachii"
+HT3,少海,Shaohai,Lesser Sea,"Medial elbow crease, ulnar side of tendon"
+HT4,灵道,Lingdao,Spirit Path,"Radial to flexor carpi ulnaris tendon, 1.5 cun proximal to wrist crease"
+HT5,通里 ,Tongli,Connecting Li,"1 cun above wrist crease, ulnar side"
+HT6,阴郄,Yinxi,Yin Cleft,"0.5 cun proximal to HT7, radial side of pisiform bone"
+HT7,神门,Shenmen,Spirit Gate,"Ulnar end of wrist crease, pisiform bone proximal"
+HT8,少府,Shaofu,Lesser Mansion,"Palm side, between 4th/5th metacarpals"
+HT9,少冲,Shaochong,Lesser Surge,"Little finger radial side, 0.1 cun from nail corner"
+SI1,少泽,Shaoze,Lesser Marsh,"Little finger ulnar side, 0.1 cun from nail corner"
+SI2,前谷,Qiangu,Front Valley,"Distal to the ulnar side of the 5th MCP joint, at the junction of red and white skin"
+SI3,后溪,Houxi,Back Stream,"Ulnar side, proximal to 5th MCP joint"
+SI4,腕骨,Wangu,Wrist Bone,"Ulnar side, between pisiform and 5th metacarpal"
+SI5,阳谷,Yanggu,Yang Valley,Depression between triquetrum and ulnar styloid on posterior medial wrist
+SI6,养老,Yanglao,Nourishing the Elder,"Dorsal wrist, radial side of ulnar styloid when palm faces chest"
+SI7,支正,Zhizheng,Branch Upright,"5 cun proximal to wrist crease, between ulna and flexor carpi ulnaris muscle"
+SI8,小海,Xiaohai,Small Sea,Between olecranon and medial epicondyle
+SI9,肩贞,Jianzhen,Shoulder True,"Posterior shoulder, 1 cun above posterior axillary fold"
+SI10,臑俞,Naoshu,Upper Arm Shu,"Below scapular spine, superior to posterior axillary fold"
+SI11,天宗,Tianzong,Heavenly Gathering,Midpoint between scapular spine midpoint and inferior angle of scapula
+SI12,秉风,Bingfeng,Grasping the Wind,"Supraspinous fossa, superior to midpoint of scapular spine"
+SI13,曲垣,Quyuan,Crooked Wall,"Depression above medial end of scapular spine, midpoint between SI10 and T2 vertebra"
+SI14,肩外俞,Jianwaishu,Shoulder Outer Shu,"At level of T1 spinous process, 3 cun lateral to posterior median line"
+SI15,肩中俞,Jianzhongshu,Middle Shoulder Shu,2 cun lateral to posterior median line at level of C7 spinous process
+SI16,天窗,Tianchuang,Heavenly Window,"Posterior to sternocleidomastoid muscle, level with superior border of thyroid cartilage"
+SI17,天容,Tianrong,Heavenly Appearance,"Behind mandibular angle, anterior to sternocleidomastoid muscle"
+SI18,颧髎,Quanliao,Cheek Bone Hole,"Below zygomatic bone, directly below outer eye corner"
+SI19,听宫,Tinggong,Listening Palace,"Anterior to tragus, posterior to mandibular condyle"
+BL1,睛明,Jingming,Bright Eyes,"Inner eye corner, medial to orbit"
+BL2,攒竹,Cuanzhu,Gathered Bamboo,"Eyebrow medial end, supraorbital notch"
+BL3,眉冲,Meichong,Eyebrow Surge,"Superior to frontal notch, 0.5 cun above anterior hairline"
+BL4,曲差,Qucha,Crooked Bend,"0.5 cun above anterior hairline, 1.5 cun lateral to anterior median line"
+BL5,五处,Wuchu,Fifth Place,"1 cun above anterior hairline, 1.5 cun lateral to anterior median line"
+BL6,承光,Chengguang,Receiving Light,"2.5 cun above anterior hairline, 1.5 cun lateral to anterior median line"
+BL7,通天,Tongtian,Heavenly Connection,"4 cun above anterior hairline, 1.5 cun lateral to anterior median line"
+BL8,络却,Luoque,Declining Connection,"5.5 cun above anterior hairline, 1.5 cun lateral to anterior median line"
+BL9,玉枕,Yuzhen,Jade Pillow,"Level with superior border of external occipital protuberance, 1.3 cun lateral to posterior median line"
+BL10,天柱,Tianzhu,Celestial Pillar,"Posterior hairline, 1.3 cun lateral to midline"
+BL11,大杼,Dazhu,Great Shuttle,"1st thoracic vertebra, 1.5 cun lateral to midline"
+BL12,风门 ,Fengmen,Wind Gate,"2nd thoracic vertebra, 1.5 cun lateral to midline"
+BL15,心俞,Xinshu,Heart Transport,"5th thoracic vertebra, 1.5 cun lateral to midline"
+BL18,肝俞,Ganshu,Liver Transport,"9th thoracic vertebra, 1.5 cun lateral to midline"
+BL19,胆俞 ,Danshu,Gallbladder Transport,"10th thoracic vertebra, 1.5 cun lateral to midline"
+BL20,脾俞,Pishu,Spleen Transport,"11th thoracic vertebra, 1.5 cun lateral to midline"
+BL21,胃俞 ,Weishu,Stomach Transport,"12th thoracic vertebra, 1.5 cun lateral to midline"
+BL22,三焦俞,Sanjiaoshu,Triple Burner Transport,1.5 cun lateral to the lower border of the 1st lumbar vertebra
+BL23,肾俞,Shenshu,Kidney Transport,1.5 cun lateral to the lower border of the 2nd lumbar vertebra
+BL24,气海俞,Qihaishu,Sea of Qi Transport,1.5 cun lateral to the lower border of the 3rd lumbar vertebra
+BL25,大肠俞 ,Dachangshu, Large Intestine Transport,1.5 cun lateral to the lower border of the 4th lumbar vertebra
+BL26,关元俞,Guanyuanshu,Gate of Origin Transport,1.5 cun lateral to the lower border of the 5th lumbar vertebra
+BL27,小肠俞,Xiaochangshu,Small Intestine Transport,1.5 cun lateral to the lower border of the 1st sacral vertebra
+BL28,膀胱俞,Pangguangshu,Bladder Transport,1.5 cun lateral to the lower border of the 2nd sacral vertebra
+BL29,中膂俞,Zhonglushu,Middle Spine Transport,1.5 cun lateral to the lower border of the 3rd sacral vertebra
+BL30,白环俞 ,Baihuanshu,White Ring Transport,1.5 cun lateral to the lower border of the 4th sacral vertebra
+BL31,上髎 ,Shangliao,Upper Crevice,In the 1st posterior sacral foramen
+BL32,次髎,Ciliao,Second Crevice,In the 2nd posterior sacral foramen
+BL33,中髎,Zhongliao,Middle Crevice,Depression in the 3rd posterior sacral foramen
+BL34,下髎,Xialiao,Lower Crevice,Depression in the 4th posterior sacral foramen
+BL35,会阳,Huiyang,Converging Yang,0.5 cun lateral to the tip of the coccyx
+BL36,承扶,Chengfu,Supporting Hold,Midpoint of the gluteal fold
+BL37,殷门 ,Yinmen,Thick Gate,6 cun below Supporting Hold (BL36)
+BL38,浮郄,Fuxi,Floating Crevice,"1 cun above Bent Yang (BL39), lateral end of popliteal crease"
+BL39,委阳,Weiyang,Bent Yang,Lateral end of popliteal crease
+BL40,委中,Weizhong,Bent Center,Midpoint of popliteal crease
+BL41,附分,Fufen,Attached Branch,3 cun lateral to lower border of T2 spinous process
+BL42,魄户,Pohu,Soul Window,3 cun lateral to lower border of T3 spinous process
+BL43,膏肓,Gaohuang,Vital Core,3 cun lateral to lower border of T4 spinous process
+BL44,神堂,Shentang,Spirit Hall,3 cun lateral to lower border of T5 spine
+BL45,譩譆,Yixi,Sighing Hollow,3 cun lateral to lower border of T6 spine
+BL46,膈关,Geguan,Diaphragm Pass,3 cun lateral to lower border of T7 spine
+BL47,魂门,Hunmen,Soul Gate,3 cun lateral to lower border of T9 spine
+BL48,阳纲 ,Yanggang,Yang Pivot,3 cun lateral to lower border of T10 spine
+BL49,意舍 ,Yishe,Mind Abode,3 cun lateral to lower border of T11 spine
+BL50,胃仓 ,Weicang,Stomach Granary,3 cun lateral to lower border of T12 spine
+BL51,肓门 ,Huangmen,Vital Portal,3 cun lateral to lower border of L1 spine
+BL52,志室 ,Zhishi,Will Chamber,3 cun lateral to lower border of L2 spine
+BL53,胞肓 ,Baohuang,Womb Hollow,3 cun lateral to level of 2nd sacral foramen
+BL54,秩边 ,Zhibian,Ordered Edge,3 cun lateral to level of 4th sacral foramen
+BL55,合阳 ,Heyang,Converging Yang,"2 cun below popliteal crease, between gastrocnemius muscle bellies"
+BL56,承筋 ,Chengjin,Supporting Sinew,"Midpoint of gastrocnemius, on BL55-BL57 line"
+BL57,承山 ,Chengshan,Supporting Mountain,Depression at gastrocnemius bifurcation
+BL58,飞扬 ,Feiyang,Flying Upward,"7 cun above BL60, 1 cun inferolateral to BL57"
+BL59,跗阳 ,Fuyang,Instep Yang,"3 cun above external malleolus, between fibula and Achilles tendon"
+BL60,昆仑 ,Kunlun,Kunlun Mountains,Depression between external malleolus and Achilles tendon
+BL61,仆参 ,Pucan,Kneeling Attendant,"Posteroinferior to external malleolus, at calcaneus margin"
+BL62,申脉 ,Shenmai,Stretching Vessel,Depression directly below external malleolus tip
+BL63,金门 ,Jinmen,Golden Gate,"Anteroinferior to malleolus, depression below cuboid bone"
+BL64,京骨 ,Jinggu,Capital Bone,"Anteroinferior to 5th metatarsal tuberosity, at dermo-epidermal junction"
+BL65,束骨 ,Shugu,Binding Bone,"Posterior to 5th metatarsophalangeal joint, at dermo-epidermal junction"
+BL66,足通谷 ,Zutonggu,Foot Connecting Valley,"Anterior to 5th metatarsophalangeal joint, at dermo-epidermal junction"
+BL67,至阴,Zhiyin,Reaching Yin,0.1 cun lateral to little toe nail corner
+KI1,涌泉 ,Yongquan,Gushing Spring,Anterior 1/3 of sole
+KI2,然谷 ,Rangu,Blazing Valley,"Anteroinferior to medial malleolus, below navicular tuberosity"
+KI3,太溪 ,Taixi,Great Ravine,Depression between medial malleolus and Achilles tendon
+KI4,大钟 ,Dazhong,Great Bell,"0.5 cun posteroinferior to KI3, anterior to Achilles insertion"
+KI5,水泉 ,Shuiquan,Water Spring,"1 cun directly below KI3, medial to calcaneal tubercle"
+KI6,照海 ,Zhaohai,Shining Sea,1 cun directly below medial malleolus tip
+KI7,复溜 ,Fuliu,Returning Flow,"2 cun above KI3, anterior to Achilles tendon"
+KI8,交信 ,Jiaoxin,Intermingling Pathway,"Posterior to medial tibia, 0.5 cun anterior to KI7"
+KI9,筑宾 ,Zhubin,Guest House,"On KI3-KI10 line, below medial gastrocnemius belly"
+KI10,阴谷 ,Yingu,Yin Valley,"Medial popliteal fossa, lateral to semitendinosus tendon"
+KI11,横骨 ,Henggu,Horizontal Bone,"5 cun below umbilicus, superior to pubic symphysis"
+KI12,大赫 ,Dahe,Great Manifestation,"4 cun below umbilicus, 0.5 cun lateral to midline"
+KI13,气穴 ,Qixue,Qi Point,"3 cun below umbilicus, 0.5 cun lateral to midline"
+KI14,四满 ,Siman,Four Fullness,"2 cun below umbilicus, 0.5 cun lateral to midline"
+KI15,中注 ,Zhongzhu,Central Flow,"1 cun below umbilicus, 0.5 cun lateral to midline"
+KI16,肓俞 ,Huangshu,Huang Transport,0.5 cun lateral to umbilicus center
+KI17,商曲 ,Shangqu,Merchant's Bend,"2 cun above umbilicus, 0.5 cun lateral to midline"
+KI18,石关 ,Shiguan,Stone Pass,"3 cun above umbilicus, 0.5 cun lateral to midline"
+KI19,阴都 ,Yindu,Yin Capital,"4 cun above umbilicus, 0.5 cun lateral to midline"
+KI20,腹通谷,Futonggu,Abdominal Connecting Valley,"5 cun above umbilicus, 0.5 cun lateral to midline"
+KI21,幽门 ,Youmen,Hidden Gate,"6 cun above umbilicus, 0.5 cun lateral to midline"
+KI22,步廊 ,Bulang,Corridor Walk,"5th intercostal space, 2 cun lateral to midline"
+KI23,神封 ,Shenfeng,Spirit Seal,"4th intercostal space, 2 cun lateral to midline"
+KI24,灵墟 ,Lingxu,Spirit Ruins,"3rd intercostal space, 2 cun lateral to midline"
+KI25,神藏 ,Shencang,Spirit Storage,"2nd intercostal space, 2 cun lateral to midline"
+KI26,彧中 ,Yuzhong,Cultivated Center,"1st intercostal space, 2 cun lateral to midline"
+KI27,俞府,Shufu,Shu Mansion,"In the depression below the clavicle, 2 cun lateral to the anterior midline"
+PC1,天池,Tianchi,Heavenly Pool,"In the fourth intercostal space, 5 cun lateral to the anterior midline"
+PC2,天泉,Tianquan,Heavenly Spring,"Between the two heads of the biceps brachii, 2 cun below the anterior axillary fold"
+PC3,曲泽,Quze,Marsh at the Bend,"On the cubital crease, medial to the biceps tendon"
+PC4,郄门,Ximen,Xi-Cleft Gate,5 cun proximal to the wrist crease between the palmaris longus and flexor carpi radialis tendons
+PC5,间使,Jianshi,Intermediate Messenger,3 cun proximal to the wrist crease between the palmaris longus and flexor carpi radialis tendons
+PC6,内关,Neiguan,Inner Pass,2 cun proximal to the wrist crease between the palmaris longus and flexor carpi radialis tendons
+PC7,大陵,Daling,Great Mound,In the centre of the wrist crease between the palmaris longus and flexor carpi radialis tendons
+PC8,劳宫,Laogong,Labor Palace,At the centre of the palm between the 2nd and 3rd metacarpal bones below the middle finger
+PC9,中冲,Zhongchong,Central Hub,In the centre of the tip of the middle finger
+TE1,关冲,Guanchong,Rushing Pass,"Ulnar to the distal phalanx of the ring finger, 0.1 cun proximal to the ulnar corner of the fingernail, at the intersection of the vertical line of the ulnar nail side and the horizontal line of the nail base"
+TE2,液门,Yimen,Fluid Gate,"In the depression superior to the web margin between the ring and little fingers, at the border between red and white flesh"
+TE3,中渚,Zhongzhu,Central Islet,"Between the fourth and fifth metacarpal bones, in the depression proximal to the fourth metacarpophalangeal joint"
+TE4,阳池,Yangchi,Yang Pool,In the depression ulnar to the extensor digitorum tendon on the dorsal wrist crease
+TE5,外关,Waiguan,Outer Pass,"Midpoint of the interosseous space between the radius and ulna, 2 cun proximal to the dorsal wrist crease"
+TE6,支沟,Zhigou,Branch Ditch,"Midpoint of the interosseous space between the radius and ulna, 3 cun proximal to the dorsal wrist crease"
+TE7,会宗,Huizong,Ancestral Meeting,"Just radial to the ulna, 3 cun proximal to the dorsal wrist crease"
+TE8,三阳络,Sanyangluo,Three Yang Luo,"Midpoint of the interosseous space between the radius and ulna, 4 cun proximal to the dorsal wrist crease"
+TE9,四渎,Sidu,Four Rivers,"Midpoint of the interosseous space between the radius and ulna, 5 cun distal to the prominence of the olecranon"
+TE10,天井,Tianjing,Celestial Well,In the depression 1 cun proximal to the prominence of the olecranon
+TE11,清冷渊,Qinglengyuan,Clear Cold Abyss,"On the line connecting the olecranon prominence with the acromial angle, 2 cun proximal to the olecranon"
+TE12,消泺,Xiaoluo,Dispersing Luo,"On the line connecting the olecranon prominence with the acromial angle, 5 cun proximal to the olecranon"
+TE13,臑会,Naohui,Upper Arm Meeting,"Postero-inferior to the deltoid border, 3 cun inferior to the acromial angle"
+TE14,肩髎,Jianliao,Shoulder Crevice,In the depression between the acromial angle and the greater tubercle of the humerus
+TE15,天髎,Tianliao,Celestial Crevice,In the depression superior to the superior angle of the scapula
+TE16,天窗,Tianyou,Heavenly Window,"At the level of the angle of the mandible, in the depression posterior to the sternocleidomastoid muscle"
+TE17,翳风,Yifeng,Wind Screen,"Posterior to the earlobe, in the depression anterior to the inferior end of the mastoid process"
+TE18,瘛脉,Chimai,Veering Passage,"At the centre of the mastoid process, at the junction of the upper two thirds and lower one third of the curved line from TE17 to TE20"
+TE19,颅息,Luxi,Skull Rest,At the junction of the upper one third and lower two thirds of the curved line from TE17 to TE20
+TE20,角孙,Jiaosun,Mastoid Process,Just superior to the auricular apex
+TE21,耳门,Ermen,Ear Gate,In the depression between the supratragic notch and the condylar process of the mandible
+TE22,耳和髎,Erheliao,Ear Harmony Mound,"Posterior to the temple hairline, anterior to the auricular root, posterior to the superficial temporal artery"
+TE23,丝竹空,Sizhukong,Bamboo Hollow,In the depression at the lateral end of the eyebrow
+GB1,瞳子髎,Tongziliao,Pupil Crevice,In the depression 0.5 cun lateral to the outer canthus of the eye
+GB2,听会,Tinghui,Meeting of Hearing,"In the depression anterior to the intertragic notch, at the condylar process of the mandible"
+GB3,上关,Shangguan,Above the Joint,"In the depression superior to the zygomatic arch, directly above the condylar process of the mandible"
+GB4,颔厌,Hanyan,Jaw Serenity,At the junction of the upper and middle thirds of the curved line from GB3 to GB6
+GB5,悬颅,Xuanlu,Suspended Skull,At the junction of the middle and lower thirds of the curved line from GB3 to GB6
+GB6,悬厘,Xuanli,Suspended Hair,At the junction of the lower third of the curved line from GB4 to GB7
+GB7,曲鬓,Qubin,Crook of the Temple,"In the depression on the temporal region, 1 cun anterior to the hairline"
+GB8,浮白,Fubai,Leading Valley,1.5 cun superior to the apex of the ear
+GB9,天冲,Tianchong,Heavenly Rushing,"In the depression superior to the mastoid process, at the junction of the upper and middle thirds of the curved line from GB8 to GB12"
+GB10,浮白,Fubai,Floating White,"Posterosuperior to the mastoid process, at the junction of the upper third and lower two-thirds of the curved line from GB9 to GB12"
+GB11,完骨,Wangu,Mastoid Process,At the highest point of the mastoid process
+GB12,风池,Fengchi,Wind Pool,"In the depression between the sternocleidomastoid and trapezius, level with the mastoid process"
+GB13,本神,Benshen,Root of the Spirit,"0.5 cun within the anterior hairline, directly above the lateral end of the eyebrow"
+GB14,阳白,Yangbai,Yang White,1 cun above the midpoint of the eyebrow
+GB15,头临泣,Toulinqi,Head Governor of Tears,0.5 cun posterior to GB14
+GB16,目窗,Muchuang,Window of the Eye,1.5 cun posterior to GB15
+GB17,正营,Zhengying,Upright Nutrition,1.5 cun posterior to GB16
+GB18,率谷,Shuaigu,Support Spirit,4 cun posterior to the anterior hairline
+GB19,脑户,Naohu,Brain Hollow,"2.25 cun above GB20, midway between the Governing and Gallbladder meridians"
+GB20,风池,Fengchi,Wind Pool,"In the depression between the upper fibers of the trapezius and sternocleidomastoid, level with the occiput"
+GB21,肩井,Jianjing,Shoulder Well,At the midpoint between the acromion and the C7 spinous process
+GB22,肩中,Jianzhong,Shoulder Center,"In the 4th intercostal space, 3 cun below the axilla"
+GB23,辐筋,Zhejin,Flank Sinews,"On the lateral chest wall, in the 5th intercostal space, 3 cun below the axilla"
+GB24,日月,Riyue,Sun and Moon,"Below the lateral costal margin, in the 7th intercostal space"
+GB25,京门,Jingmen,Capital Gate,At the free end of the 12th rib
+GB26,带脉,Daimai,Girdling Vessel,Directly below the free end of the 11th rib
+GB27,五枢,Wushu,Five Pivots,Anterior to the anterior superior iliac spine
+GB28,维道,Weidao,Linking Path,Anterior and inferior to the anterior superior iliac spine
+GB29,环跳,Huantiao,Jumping Circle,At the midpoint of the line connecting the greater trochanter and the sacral hiatus
+GB30,环跳,Huantiao,Jumping Circle,One third of the distance between the greater trochanter and the sacral hiatus
+GB31,风市,Fengshi,Wind Market,"On the lateral aspect of the thigh, 7 cun above the transverse popliteal crease"
+GB32,中瀆,Zhongdu,Middle Ditch,2 cun below GB31 on the lateral aspect of the thigh
+GB33,膝阳关,Xiyangguan,Knee Yang Gate,2 cun above the lateral epicondyle of the femur
+GB34,阳陵泉,Yanglingquan,Yang Mound Spring,In the depression anterior and inferior to the head of the fibula
+GB35,阳交,Yangjiao,Yang Intersection,"7 cun above the tip of the lateral malleolus, posterior to the fibula"
+GB36,外丘,Waiqiu,Outer Hill,"7 cun above the tip of the lateral malleolus, anterior to the fibula"
+GB37,光明,Guangming,Bright Light,"5 cun above the tip of the lateral malleolus, anterior to the fibula"
+GB38,阳辅,Yangfu,Yang Assistance,"4 cun above the tip of the lateral malleolus, anterior to the fibula"
+GB39,悬钟,Xuanzhong,Suspended Bell,"3 cun above the tip of the lateral malleolus, posterior to the fibula"
+GB40,丘墟,Qiuxu,Mound of Ruins,"Anterior and inferior to the lateral malleolus, in the depression on the dorsum of the foot"
+GB41,足临泣,Zulinqi,Foot Governor of Tears,In the depression distal to the junction of the 4th and 5th metatarsal bones
+GB42,地五会,Diwuhui,Earth Five Meetings,"Between the 4th and 5th metatarsals, 0.5 cun proximal to GB41"
+GB43,侠溪,Xiaxi,Clamped Stream,0.5 cun proximal to the web margin between the 4th and 5th toes
+GB44,足窍阴,Zuqiaoyin,Yin Portals of the Foot,0.1 cun posterior to the web margin between the 4th and 5th toes
+LR1,大敦,Dadun,Great Mound,"Lateral side of distal phalanx of the great toe, 0.1 cun proximal to the lateral corner of the toenail at the intersection of the vertical line of the nail border and the horizontal line of the toenail base"
+LR2,行间,Xingjian,Moving Between,"Between first and second toes, proximal to web margin at the border between red and white flesh"
+LR3,太冲,Taichong,Supreme Surge,"Between first and second metatarsal bones, in depression distal to junction of the bases of the two bones, over the dorsalis pedis artery"
+LR4,中封,Zhongfeng,Middle Seal,"In depression medial to the tibialis anterior tendon, anterior to the medial malleolus, midway between SP5 and ST41"
+LR5,蠡沟,Ligou,Woodworm Canal,"At centre of medial border of tibia, 5 cun proximal to prominence of medial malleolus"
+LR6,中都,Zhongdu,Central Capital,"At centre of medial border of tibia, 7 cun proximal to prominence of medial malleolus"
+LR7,膝关,Xiguan,Knee Gate,"Inferior to medial condyle of tibia, 1 cun posterior to SP9"
+LR8,曲泉,Ququan,Spring at the Crook,"In depression at medial end of popliteal crease, medial to tendons of semitendinosus and semimembranosus muscles"
+LR9,阴包,Yinbao,Yin Wrapping,"Between gracilis and sartorius muscles, 4 cun proximal to base of patella"
+LR10,足五里,Zuwuli,Five Migrations of the Foot,"3 cun distal to ST30, on medial border of adductor longus muscle, below pubic tubercle"
+LR11,阴廉,Yinlian,Yin Corner,2 cun distal to ST30 on medial thigh
+LR12,急脉,Jimai,Urgent Pulse,"In inguinal groove, level with superior border of pubic symphysis, 2.5 cun lateral to anterior median line"
+LR13,章门,Zhangmen,Chapter Gate,Inferior to free extremity of the 11th rib on lateral abdomen
+LR14,期门,Qimen,Cyclical Gate,"In sixth intercostal space, 4 cun lateral to anterior median line"
+GV16,风府 ,Fengfu,Wind Mansion,"Below occipital bone, 1 cun above hairline"
+GV20,百会,Baihui,Hundred Convergences,"Vertex, intersection of ear apex lines"
+GV1,长强,Changqiang,Long Strong,"Inferior to the coccyx, midway between the tip of the coccyx and the anus"
+GV2,腰俞,Yaoshu,Lumbar Shu,At the sacral hiatus on posterior midline
+GV3,腰阳关,Yaoyangguan,Lumbar Yang Pass,Inferior to the L4 spinous process on posterior midline
+GV4,命门,Mingmen,Life Gate,Inferior to the L2 spinous process on posterior midline
+GV5,悬枢,Xuanshu,Suspended Pivot,Inferior to the L1 spinous process on posterior midline
+GV6,脊中,Jizhong,Spinal Center,Inferior to the T11 spinous process on posterior midline
+GV7,中枢,Zhongshu,Central Pivot,Inferior to the T10 spinous process on posterior midline
+GV8,筋缩,Jinsuo,Sinew Contraction,Inferior to the T9 spinous process on posterior midline
+GV9,至阳,Zhiyang,Extremity of Yang,Inferior to the T7 spinous process on posterior midline
+GV10,灵台,Lingtai,Spirit Tower,Inferior to the T6 spinous process on posterior midline
+GV11,神道,Shendao,Spirit Path,Inferior to the T5 spinous process on posterior midline
+GV12,身柱,Shenzhu,Body Pillar,Inferior to the T3 spinous process on posterior midline
+GV13,陶道,Taodao,Kiln Path,Inferior to the T1 spinous process on posterior midline
+GV14,大椎,Dazhui,Great Vertebra,Inferior to the C7 spinous process on posterior midline
+GV15,哑门,Yamen,Mute’s Gate,Depression above the C2 spinous process on posterior midline
+GV16,风府,Fengfu,Wind Mansion,Inferior to external occipital protuberance between trapezius muscles
+GV17,脑户,Naohu,Brain’s Door,Depression above external occipital protuberance on posterior midline
+GV18,强间,Qiangjian,Strong Shoulder,4 cun above posterior hairline on posterior midline
+GV19,后顶,Houding,Back Vertex,5.5 cun above posterior hairline on posterior midline
+GV20,百会,Baihui,Hundred Convergences,5 cun above anterior hairline on midline
+GV21,前顶,Qianding,Front Vertex,3.5 cun above anterior hairline on midline
+GV22,囟会,Xinhui,Fontanelle Meeting,2 cun above anterior hairline on midline
+GV23,上星,Shangxing,Upper Star,1 cun above anterior hairline on midline
+GV24,神庭,Shenting,Spirit Courtyard,0.5 cun above anterior hairline on midline
+GV25,素髎,Suliao,Plain Space,Tip of the nose
+GV26,水沟,Shuigou,Midline of Upper Lip,Midpoint of the philtrum
+GV27,兑端,Duiduan,End Exchange,Midpoint of upper lip frenulum
+GV28,龈交,Yinjiao,Gum Intersection,Inside the mouth at the junction of the upper lip frenulum and gum
+CV1,会阴,Huiyin,Yin Meeting,Midpoint between anus and posterior perineum
+CV2,曲骨,Qu gu,Crooked Bone," above the pubic symphysis, midline."
+CV3,中极,Zhongji,Middle Extremity,"4 B-cun below the umbilicus, on the midline."
+CV4,关元,Guanyuan,Origin Pass,"3 B-cun below the umbilicus, on the midline."
+CV5,石门,Shimen,Stone Gate,"2 B-cun below the umbilicus, on the midline."
+CV6,气海,Qihai,Sea of Qi,"1.5 B-cun below the umbilicus, on the midline."
+CV7,阴交,Yinjiao,Yin Intersection,"1 B-cun below the umbilicus, on the midline."
+CV8,神阙,Shenque,Spirit Palace,"At the centre of the umbilicus, upper abdomen."
+CV9,水分,Shuifen,Water Division,"1 B-cun above the umbilicus, on the midline."
+ CV10,下脘,Xiawan,Lower Epigastrium ,"2 B-cun above the umbilicus, on the midline."
+ CV11,建里,Jianli,Interior Strengthening ,"3 B-cun above the umbilicus, on the midline."
+CV12,中脘,Zhongwan,Middle Epigastrium,"4 B-cun above the umbilicus, on the midline."
+CV13,上脘,Shangwan,Upper Epigastrium,"5 B-cun above the umbilicus, on the midline."
+CV14,巨阙,Juque,Great Palace,"6 B-cun above the umbilicus, on the midline."
+CV15,鸠尾,Jiuwei,Turtledove Tail,"1 B-cun below the xiphisternal junction, on the midline."
+CV16,中庭,Zhongting,Center Palace,"At the midpoint of the xiphisternal junction, on the midline."
+CV17,膻中,Danzhong,Chest Center,"Level with the 4th intercostal space, on the midline."
+CV18,玉堂,Yutang,Jade Hall,"Level with the 3rd intercostal space, on the midline."
+CV19,紫宫,Zigong,Purple Palace,"Level with the 2nd intercostal space, on the midline."
+CV20,华盖,Huagai,Magnificent Canopy,"Level with the 1st intercostal space, on the midline."
+CV21,璇玑,Xuanji,Jade Rotator,"1 B-cun below the suprasternal fossa, on the midline."
+CV22,天突,Tiantu,Heavenly Chimney,"Center of suprasternal fossa, on the midline."
+CV23,廉泉,Lianquan,Ridge Spring,"Above thyroid cartilage, in the depression above hyoid bone, on the midline."
+CV24,承浆,Chengjiang,Fluid Container,In the center of the mentolabial sulcus.

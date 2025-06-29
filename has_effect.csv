@@ -1,0 +1,939 @@
+code,effects_name
+LU1,promotes Lung Qi descent
+LU1,stops cough and wheezing
+LU1,resolves phlegm and clears Lung Heat
+LU1,relieves chest fullness and upper back tension
+LU2,alleviates arm numbness and coldness due to cervical radiculopathy
+LU2,reduces neck and shoulder stiffness
+LU3,clears Lung Heat
+LU3,cools blood
+LU3,stops bleeding
+LU3,treats cough
+LU3,asthma
+LU3,goitre
+LU3,dizziness
+LU3,regulates head-body Qi and calms the mind
+LU4,regulates Lung Qi and relieves cough and dyspnea
+LU4,helps with local arm pain and channel circulation
+LU5,clears Lung Heat and rebellious Qi
+LU5,nourishes Lung Yin
+LU5,resolves phlegm-heat
+LU5,helps with edema
+LU5,diarrhea
+LU5,elbow and back pain
+LU6,clears heat
+LU6,moistens the Lung
+LU6,stops bleeding
+LU6,acute cough
+LU6,asthma
+LU6,sore throat
+LU6,hemoptysis
+LU7,releases exterior wind
+LU7,opens Lung channel
+LU7,promotes descending Qi
+LU7,treats cough
+LU7,asthma
+LU7,headaches
+LU7,facial paralysis
+LU7,wrist pain
+LU8,descends Lung Qi and alleviates cough and wheezing
+LU8,clears Lung channel and calms asthma
+LU9,tonifies Lung Qi and Yin
+LU9,transforms phlegm
+LU9,major point for chronic cough
+LU9,asthma
+LU9,weak pulse
+LU10,clears Lung heat and benefits the throat
+LU10,treats sore throat
+LU10,fever
+LU10,loss of voice
+LU11,revives consciousness
+LU11,clears heat
+LU11,benefits throat
+LU11,used for sore throat
+LU11,high fever
+LU11,tonsillitis
+LU11,loss of consciousness
+LI1,clears heat
+LI1,reduces swelling
+LI1,revives consciousness
+LI1,sore throat
+LI1,febrile disease
+LI1,nosebleed
+LI2,clears heat
+LI2,reduces swelling
+LI2,benefits throat and teeth
+LI2,used for gum pain
+LI2,mouth ulcers
+LI3,clears heat
+LI3,benefits throat and teeth
+LI3,dispels wind and heat
+LI3,useful for sore throat
+LI3,toothache
+LI5,clears heat
+LI5,alleviates pain
+LI5,benefits the wrist
+LI5,treats sore throat
+LI5,toothache
+LI5,local wrist pain
+LI6,expels wind and clears heat
+LI6,opens and regulates water passages
+LI6,used for facial swelling
+LI6,rhinitis
+LI7,clears heat
+LI7,detoxifies poison
+LI7,regulates intestines and stomach
+LI7,treats facial paralysis
+LI7,boils
+LI7,acute conditions
+LI8,harmonizes the Small Intestine
+LI8,relieves abdominal pain
+LI8,borborygmus
+LI8,cold limbs
+LI9,regulates Qi and blood in the arm
+LI9,used for motor impairment
+LI9,numbness
+LI9,arm pain
+LI10,tonifies Qi and blood
+LI10,commonly used for arm pain
+LI10,weakness
+LI10,paralysis
+LI10,and gastrointestinal disorders
+LI11,dispel wind & clear heat
+LI11,relieve itching
+LI11,relieve arm/elbow pain
+LI11,reduce hypertension
+LI11,improve bowel function
+LI12,promote circulation & unblock collaterals
+LI12,relieve elbow/arm pain
+LI12,numbness
+LI12,spasm
+LI12,dispel cold & damp
+LI13,unblock collaterals & relieve swelling/pain
+LI13,improve upper limb circulation
+LI13,treat arm weakness
+LI13,lymph node issues
+LI13,cough with bleeding
+LI14,unblock meridians and relieve shoulder pain and numbness
+LI15,expel wind-damp
+LI15,unblock collaterals
+LI15,relieve shoulder-arm pain
+LI15,paralysis
+LI15,neck stiffness
+LI16,unblock collaterals & stop bleeding
+LI16,relieve shoulder/arm pain/spasm
+LI16,reduce phlegm/nodes
+LI16,treat cough with bleeding
+LI17,regulate qi & clear throat
+LI17,reduce swelling & pain
+LI17,resolve phlegm
+LI17,relieve throat pain
+LI17,difficulty swallowing
+LI17,goiter
+LI18,regulate qi & throat
+LI18,clear heat & relieve swelling/pain
+LI18,treat cough
+LI18,asthma
+LI18,throat swelling
+LI18,hoarseness
+LI19,expel wind & clear heat
+LI19,open nasal passages
+LI19,treat nasal congestion
+LI19,rhinitis
+LI19,facial paralysis
+LI20,clear nasal passages
+LI20,relieve nasal congestion
+LI20,rhinitis
+LI20,sinusitis
+LI20,promote lung function
+ST1,benefits eyes
+ST1,dispels wind-heat
+ST1,alleviates facial paralysis.
+ST2,clears heat from the Stomach channel
+ST2,benefits eyes
+ST2,relieves facial swelling.
+ST3,relieves infraorbital pain
+ST3,reduces swelling
+ST3,clears heat.
+ST4,dispels wind
+ST4,benefits the mouth
+ST4,relieves facial paralysis.
+ST5,regulates the jaw
+ST5,benefits teeth
+ST5,relieves jaw pain.
+ST6,relieves jaw and facial pain
+ST6,calms the spirit.
+ST7,alleviates ear and jaw pain
+ST7,treats otitis media.
+ST8,dispels wind
+ST8,relieves headache and dizziness.
+ST9,regulates qi and blood
+ST9,benefits throat and neck.
+ST10,clears phlegm
+ST10,benefits the throat
+ST10,relieves cough.
+ST11,regulates chest qi
+ST11,dissipates nodules.
+ST12,benefits throat and skin
+ST12,dispels lung heat.
+ST13,unbinds chest
+ST13,regulates qi
+ST13,relieves cough.
+ST14,opens chest
+ST14,benefits lungs
+ST14,relieves cough.
+ST15,unbinds chest
+ST15,benefits breasts
+ST15,alleviates mastitis.
+ST16,benefits eyes and ears
+ST16,clears wind.
+ST17,landmark only
+ST17,not needled.
+ST18,regulates breasts and lactation
+ST18,relieves mastitis.
+ST19,regulates stomach qi
+ST19,relieves epigastric pain.
+ST20,harmonizes Stomach
+ST20,regulates qi
+ST20,relieves fullness.
+ST21,regulates qi
+ST21,harmonizes middle jiao
+ST21,relieves abdominal distention.
+ST22,unbinds Ren channel
+ST22,regulates digestion
+ST22,relieves bloating.
+ST23,harmonizes middle jiao
+ST23,alleviates abdominal pain.
+ST24,harmonizes stomach
+ST24,relieves abdominal pain and diarrhea.
+ST25,regulates intestines
+ST25,alleviates constipation and diarrhea.
+ST26,regulates Chong channel
+ST26,alleviates dysmenorrhea.
+ST27,regulates qi
+ST27,relieves hernia and abdominal pain.
+ST28,regulates water passages
+ST28,benefits urination.
+ST29,regulates Ren channel
+ST29,benefits uterus
+ST29,relieves menstrual disorders.
+ST30,regulates lower jiao qi
+ST30,relieves hernia and abdominal pain.
+ST31,benefits hip joint
+ST31,relieves thigh pain.
+ST32,regulates stomach and spleen channels in the thigh
+ST32,relieves thigh pain and paralysis
+ST32,benefits the knee joint.
+ST33,regulates qi and blood of the lower limb
+ST33,alleviates pain and swelling of the inguinal region and thigh.
+ST34,harmonizes Stomach channel
+ST34,releases stagnation
+ST34,benefits the knee
+ST34,relieves pain and swelling in the knee.
+ST35,clears heat from the knee
+ST35,reduces swelling
+ST35,alleviates knee pain and immobility.
+ST36,regulate spleen/stomach
+ST36,improve digestion
+ST36,treat gastritis
+ST36,ulcers
+ST36,indigestion
+ST36,constipation
+ST36,boost qi & immune function
+ST36,relieve fatigue
+ST36,anti-inflammatory
+ST36,improve insulin sensitivity and blood flow
+ST37,regulates intestines and alleviates diarrhea.
+ST38,alleviates shoulder pain and improves shoulder mobility.
+ST39,regulates small intestine qi and relieves abdominal discomfort.
+ST40,transforms phlegm and dampness
+ST40,calms the mind.
+ST41,clears heat from the stomach channel
+ST41,relieves ankle pain.
+ST42,clears heat and harmonizes the stomach channel.
+ST43,regulates the spleen and dispels dampness.
+ST44,clears heat
+ST44,calms the spirit.
+ST45,clears stomach heat
+ST45,restores consciousness.
+SP1,regulates the spleen
+SP1,stops bleeding.
+SP2,resolves dampness and clears heat from the spleen channel.
+SP3,tonifies the spleen
+SP3,harmonizes the middle jiao.
+SP4,tonifies the spleen
+SP4,harmonizes the Chong channel
+SP4,calms the spirit.
+SP5,tonifies the spleen
+SP5,disperses dampness
+SP5,supports sinews and bones.
+SP6,regulates menstruation and calms the mind.
+SP7,clears damp-heat
+SP7,promotes urination.
+SP8,harmonizes the spleen
+SP8,regulates menstruation.
+SP9,opens and moves water passages
+SP9,resolves dampness.
+SP10,invigorates and cools the blood
+SP10,dispels blood stasis.
+SP11,regulates water passages
+SP11,promotes urination.
+SP12,regulates Chong channel
+SP12,unblocks menstruation.
+SP13,regulates Qi in the lower jiao
+SP13,alleviates abdominal pain and hernia.
+SP14,regulates qi and alleviates abdominal pain.
+SP15,regulates the intestines
+SP15,alleviates constipation and diarrhea.
+SP16,regulates the stomach
+SP16,relieves epigastric pain.
+SP17,regulates the diaphragm
+SP17,relieves chest and abdominal distention.
+SP18,descends lung qi
+SP18,relieves cough and chest pain.
+SP19,regulates chest qi
+SP19,relieves chest fullness and pain.
+SP20,regulates chest and back qi
+SP20,relieves cough and asthma.
+SP21,regulates qi and blood throughout the body
+SP21,relieves muscle tension.
+HT1,unblocks the heart channel
+HT1,benefits the arm
+HT1,relieves chest pain.
+HT2,clears heat from the heart channel
+HT2,calms the spirit
+HT2,relieves pain.
+HT3,calms the mind
+HT3,relieves mental agitation and palpitations.
+HT4,regulates heart qi
+HT4,calms the spirit.
+HT5,regulates heart rhythm
+HT5,calms the mind and spirit.
+HT6,nourishes heart yin
+HT6,stops night sweating
+HT6,calms the spirit.
+HT7,calms the mind
+HT7,relieves anxiety and insomnia.
+HT8,clears heat from the heart channel
+HT8,calms the spirit.
+HT9,revives consciousness
+HT9,clears heat
+HT9,calms the spirit.
+SI1,expels wind
+SI1,clears heat
+SI1,transforms dampness.
+SI2,clears heat from the small intestine channel
+SI2,benefits the eyes.
+SI3,unblocks the Du channel
+SI3,relieves neck stiffness
+SI3,benefits the back and shoulders.
+SI4,clears heat
+SI4,benefits the wrist joint
+SI4,relieves pain.
+SI5,clears heat
+SI5,benefits the head and senses
+SI5,relieves headaches.
+SI6,benefits the eyes
+SI6,relieves pain in the elbow and shoulder.
+SI7,regulates qi
+SI7,relieves pain and swelling in the arm.
+SI8,dispels wind-damp
+SI8,relieves pain in the elbow.
+SI9,benefits the shoulder and arm
+SI9,relieves pain and stiffness.
+SI10,relieves shoulder pain
+SI10,benefits shoulder mobility.
+SI11,regulates shoulder qi
+SI11,alleviates shoulder and back stiffness.
+SI12,dispels wind-damp
+SI12,relieves shoulder pain.
+SI13,regulates qi and blood
+SI13,relieves shoulder pain.
+SI14,benefits shoulder and scapula
+SI14,relieves tension.
+SI15,regulates shoulder and arm qi
+SI15,relieves pain.
+SI16,clears heat
+SI16,benefits throat and ears.
+SI17,benefits face
+SI17,reduces swelling.
+SI18,relieves cheek and jaw pain
+SI18,benefits teeth.
+SI19,alleviates ear disorders
+SI19,benefits hearing.
+BL1,clears liver channel heat
+BL1,brightens eyes.
+BL2,dispels wind
+BL2,relieves frontal headache.
+BL3,benefits the eyes
+BL3,relieves eye pain.
+BL4,regulates qi
+BL4,relieves temporal headache.
+BL5,clears wind-heat
+BL5,relieves facial pain.
+BL6,benefits vision
+BL6,calms the spirit.
+BL7,dispels wind
+BL7,relieves gaze disorders.
+BL8,regulates the bladder channel
+BL8,expels wind.
+BL9,benefits neck
+BL9,relieves headache and stiffness.
+BL10,dispels wind
+BL10,relieves occipital pain.
+BL11,strengthens the spine
+BL11,relieves upper back pain.
+BL12,dispels wind-cold
+BL12,relieves neck and back stiffness.
+BL15,calms the spirit
+BL15,regulates heart qi.
+BL18,spreads liver qi
+BL18,relieves chest and rib pain.
+BL19,clears damp-heat
+BL19,relieves hypochondriac pain.
+BL20,regulates spleen
+BL20,alleviates digestive disorders.
+BL21,regulates stomach
+BL21,relieves abdominal discomfort.
+BL22,regulates San Jiao
+BL22,relieves abdominal bloating.
+BL23,tonifies kidney
+BL23,strengthens lumbar region.
+BL24,regulates Ren channel
+BL24,alleviates abdominal pain.
+BL25,regulates large intestine
+BL25,alleviates constipation and lower back pain.
+BL26,tonifies original qi
+BL26,benefits lumbar region.
+BL27,regulates small intestine
+BL27,relieves abdominal pain.
+BL28,clears bladder channel
+BL28,benefits urination
+BL28,alleviates urinary disorders.
+BL29,strengthens lumbar spine
+BL29,relieves lower back stiffness.
+BL30,restores yang
+BL30,stops diarrhea
+BL30,relieves sacral pain.
+BL31,benefits sacroiliac joint
+BL31,relieves lumbosacral pain.
+BL32,unblocks bowels
+BL32,relieves sacral pain.
+BL33,regulates lower jiao
+BL33,relieves pain in the sacral region.
+BL34,harmonizes bladder channel
+BL34,relieves lower back pain.
+BL35,strengthens lumbar region
+BL35,relieves hip and sacral pain.
+BL36,benefits hip joint
+BL36,relieves sciatica.
+BL37,dispels cold and damp
+BL37,relieves buttock and thigh pain.
+BL38,regulates bladder channel
+BL38,relieves pain along the posterior leg.
+BL39,regulates bladder channel
+BL39,relieves sciatica and leg pain.
+BL40,clears heat
+BL40,benefits knee and leg
+BL40,relieves pain.
+BL41,regulates qi
+BL41,relieves chest and epigastric oppression.
+BL42,clears heat from the chest
+BL42,relieves cough.
+BL43,regulates lung and chest
+BL43,relieves breathing difficulties.
+BL44,calms the spirit
+BL44,relieves anxiety and insomnia.
+BL45,dispels wind-heat
+BL45,relieves headaches and dizziness.
+BL46,harmonizes diaphragm
+BL46,relieves hiccups and chest distention.
+BL47,calms the mind
+BL47,relieves palpitations.
+BL48,regulates qi
+BL48,dispels dampness
+BL48,benefits sinews.
+BL49,strengthens spleen
+BL49,relieves abdominal distention.
+BL50,regulates stomach
+BL50,relieves vomiting and indigestion.
+BL51,regulates ren channel
+BL51,relieves abdominal pain and hernia.
+BL52,tonifies kidney
+BL52,benefits lumbar region
+BL52,relieves low back weakness.
+BL53,regulates qi
+BL53,benefits bladder and intestines
+BL53,relieves menstrual disorders.
+BL54,tonifies Kidney yin
+BL54,strengthens lower back
+BL54,relieves lumbago.
+BL55,regulates spleen and stomach
+BL55,alleviates abdominal pain and diarrhea.
+BL56,dispels wind-damp
+BL56,relieves leg pain and weakness.
+BL57,relieves calf muscle cramps and hemorrhoidal swelling.
+BL58,regulates lower jiao
+BL58,relieves leg and foot pain.
+BL59,regulates bladder channel
+BL59,relieves ankle pain.
+BL60,clears heat
+BL60,relaxes the sinews
+BL60,alleviates headache and neck stiffness.
+BL61,regulates Qi in the foot
+BL61,relieves foot and ankle pain.
+BL62,pacifies wind
+BL62,calms the spirit
+BL62,relieves insomnia.
+BL63,clears heat
+BL63,benefits the chest and lateral costal region.
+BL64,regulates bladder channel
+BL64,alleviates sciatica and back pain.
+BL65,dispels cold-damp
+BL65,relieves knee and ankle stiffness.
+BL66,clears heat and dampness
+BL66,relieves foot swelling and pain.
+BL67,calms the mind
+BL67,benefits the throat and tongue.
+KI1,rescues collapse
+KI1,restores consciousness
+KI1,tonifies Kidney Qi.
+KI2,benefits Kidney
+KI2,regulates water passages
+KI2,alleviates edema.
+KI3,tonifies Kidney Yin
+KI3,nourishes the lower jiao
+KI3,relieves night sweating.
+KI4,tonifies Kidney
+KI4,strengthens yang
+KI4,alleviates lower back coldness.
+KI5,regulates water passages
+KI5,benefits bladder
+KI5,relieves edema.
+KI6,nourishes Kidney
+KI6,benefits the eyes
+KI6,calms the spirit.
+KI7,regulates Kidney
+KI7,calms the mind
+KI7,relieves dizziness.
+KI8,harmonizes Chong channel
+KI8,regulates menstruation
+KI8,relieves abdominal pain.
+KI9,clears heat
+KI9,supports Lung and Kidney communication
+KI9,relieves throat pain.
+KI10,tonifies Kidney Qi
+KI10,relieves hernia and lower abdominal pain.
+KI11,regulates Kidney and Lung Qi
+KI11,benefits respiratory function.
+KI12,tonifies Kidney
+KI12,supports lumbar health
+KI12,alleviates back pain.
+KI13,harmonizes Qi
+KI13,benefits Lower Jiao
+KI13,relieves fatigue.
+KI14,tonifies Qi
+KI14,nourishes Kidney and Liver Yin
+KI14,calms the mind.
+KI15,harmonizes Chong channel
+KI15,relieves menstrual and abdominal pain.
+KI16,regulates Qi and blood
+KI16,benefits digestive function.
+KI17,regulates Kidney channel
+KI17,alleviates abdominal pain and hernia.
+KI18,regulates Chong channel
+KI18,alleviates abdominal fullness.
+KI19,benefits throat
+KI19,relieves difficulty swallowing.
+KI20,harmonizes the middle jiao
+KI20,alleviates indigestion and vomiting.
+KI21,benefits diaphragm and breast
+KI21,relieves hiccups.
+KI22,opens chest
+KI22,regulates qi
+KI22,relieves cough and chest pain.
+KI23,regulates chest qi
+KI23,relieves breathing difficulty.
+KI24,clears chest congestion
+KI24,benefits heart.
+KI25,tonifies Kidney
+KI25,relieves lower back pain.
+KI26,regulates Chong channel
+KI26,relieves abdominal pain and menstrual disorders.
+KI27,relieves cough
+KI27,benefits throat and chest.
+PC1,unbinds chest
+PC1,benefits lungs and breasts.
+PC2,unbinds chest
+PC2,relieves cough and asthma.
+PC3,clears heat from Pericardium channel
+PC3,harmonizes Stomach.
+PC4,moderates acute conditions
+PC4,regulates blood
+PC4,calms spirit.
+PC5,regulates heart rhythm
+PC5,calms mind
+PC5,relieves chest oppression.
+PC6,opens chest
+PC6,regulates Heart
+PC6,calms mind
+PC6,relieves nausea.
+PC7,calms mind
+PC7,harmonizes Heart
+PC7,relieves palpitations.
+PC8,clears heat from Pericardium
+PC8,calms mind
+PC8,relieves mouth ulcers.
+PC9,restores consciousness
+PC9,clears heat
+PC9,benefits tongue.
+TE1,revives consciousness
+TE1,clears heat
+TE1,benefits the ears
+TE1,alleviates pain
+TE2,benefits the ears
+TE2,clears heat
+TE2,reduces swelling
+TE3,benefits the head and ears
+TE3,clears heat
+TE4,activates the channel
+TE4,alleviates pain
+TE4,reduces swelling
+TE5,regulates qi
+TE5,clears heat
+TE5,benefits the head
+TE6,opens the channel
+TE6,relieves pain
+TE6,clears heat
+TE7,benefits the ear and throat
+TE7,clears heat
+TE8,regulates the Triple Energizer
+TE8,transforms phlegm
+TE8,clears heat
+TE9,dispels wind
+TE9,clears heat
+TE10,benefits the arm and shoulder
+TE10,dispels wind and heat
+TE11,benefits the ear and throat
+TE12,regulates qi and blood
+TE12,clears heat
+TE13,benefits the shoulder and arm
+TE13,relieves pain
+TE14,expels wind
+TE14,alleviates pain
+TE15,expels wind
+TE15,alleviates pain
+TE16,benefits the neck and head
+TE16,disperses wind
+TE17,benefits the ear
+TE17,dissipates swelling
+TE18,eliminates wind
+TE18,clears heat
+TE19,calms the spirit
+TE19,dispels wind
+TE20,benefits the head and eyes
+TE21,benefits the ear
+TE21,clears heat
+TE22,benefits the ear
+TE22,treats tinnitus
+TE23,benefits the eyes
+TE23,clears the head
+GB1,dispels wind
+GB1,benefits eyes
+GB2,benefits ears
+GB2,jaw pain
+GB3,benefits ear and jaw
+GB3,relieves facial paralysis.
+GB4,dispels wind
+GB4,regulates temporal region
+GB4,relieves headache.
+GB5,calms spirit
+GB5,benefits memory
+GB5,relieves headache.
+GB6,alleviates temporal headaches
+GB6,calms mind.
+GB7,relieves headache and temporomandibular joint pain.
+GB8,relieves migraine
+GB8,calms the mind
+GB8,stops vomiting.
+GB9,dispels wind
+GB9,benefits head and eyes
+GB9,relieves dizziness.
+GB10,calms spirit
+GB10,restores consciousness
+GB10,relieves headache.
+GB11,benefits the ear
+GB11,relieves jaw pain
+GB11,
+GB12,dispels wind
+GB12,benefits head and neck
+GB12,relieves migraine and neck stiffness.
+GB13,calms the spirit
+GB13,relieves anxiety
+GB13,
+GB14,alleviates frontal headache
+GB14,benefits eye function.
+GB15,relieves frontal headache
+GB15,benefits the eyes
+GB15,
+GB16,benefits the eyes
+GB16,relieves eye fatigue and headache.
+GB17,regulates gallbladder and stomach
+GB17,relieves headache and dizziness.
+GB18,calms the spirit
+GB18,relieves headache
+GB18,alleviates vertigo.
+GB19,benefits the brain
+GB19,relieves dizziness and headache.
+GB20,dispels wind
+GB20,relieves headache
+GB20,benefits vision.
+GB21,relieves neck and shoulder tension
+GB21,promotes qi flow.
+GB22,alleviates chest and rib pain
+GB22,regulates qi.
+GB23,relieves chest fullness and lateral costal pain.
+GB24,regulates Liver and Gallbladder
+GB24,benefits the breast
+GB24,alleviates hypochondriac pain.
+GB25,tonifies Kidney
+GB25,regulates water passages
+GB25,alleviates lumbar pain and edema.
+GB26,regulates Dai channel
+GB26,binds waist
+GB26,alleviates leucorrhea.
+GB27,benefits hypochondriac region
+GB27,regulates Dai channel
+GB27,alleviates menstrual disorders.
+GB28,regulates Dai channel
+GB28,treats leucorrhea
+GB28,relieves menstrual disorders.
+GB29,benefits hip joint
+GB29,relieves sciatica and strengthens lumbar region.
+GB30,benefits hip
+GB30,relieves sciatica
+GB30,strengthens lower back.
+GB31,dispels wind-damp
+GB31,relieves leg paralysis and itching.
+GB32,regulates Spleen and Gallbladder
+GB32,relieves lateral thigh tension and pain.
+GB33,benefits knee joint
+GB33,relieves knee pain and swelling.
+GB34,benefits sinews and joints
+GB34,alleviates lower limb pain
+GB34,harmonizes Liver and Gallbladder.
+GB35,benefits sinews
+GB35,relieves muscle cramps and pain.
+GB36,detoxifies poison
+GB36,relieves swelling and pain.
+GB37,benefits eyes
+GB37,improves vision
+GB37,clears heat.
+GB38,clears Gallbladder channel heat
+GB38,relieves headache and hypochondriac pain.
+GB39,nourishes marrow
+GB39,benefits neck and shoulders
+GB39,relieves pain.
+GB40,regulates Gallbladder channel
+GB40,relieves ankle pain
+GB40,harmonizes Shaoyang.
+GB41,opens Belt channel
+GB41,benefits chest and lateral costal region
+GB41,relieves headache.
+GB42,benefits foot sinews
+GB42,relieves pain along Gallbladder channel.
+GB43,clears Gallbladder channel heat
+GB43,benefits ears
+GB43,relieves headache.
+GB44,clears Gallbladder channel heat
+GB44,benefits eyes and ears
+GB44,calms the spirit.
+LR1,regulates Liver qi and qi in the lower jiao
+LR1,alleviates pain
+LR1,benefits the genitals
+LR1,revives consciousness
+LR1,calms the spirit
+LR2,clears Liver fire
+LR2,spreads Liver qi
+LR2,calms Liver wind
+LR2,clears heat
+LR2,benefits lower jiao
+LR3,clears head and eyes
+LR3,spreads Liver qi
+LR3,subdues Liver yang
+LR3,extinguishes wind
+LR3,nourishes Liver blood and yin
+LR3,regulates menstruation and lower jiao
+LR4,spreads Liver qi
+LR4,regulates lower jiao
+LR4,clears stagnant channel heat
+LR5,spreads and regulates Liver qi
+LR5,benefits the genitals
+LR5,clears damp-heat from lower jiao
+LR5,regulates menstruation
+LR6,spreads Liver qi
+LR6,regulates lower jiao and blood
+LR6,drains damp
+LR7,dispels wind-damp
+LR7,benefits the knee
+LR7,relaxes sinews
+LR8,clears damp-heat from lower jiao
+LR8,benefits the genitals
+LR8,invigorates blood
+LR8,nourishes blood and yin
+LR9,regulates menstruation and the lower jiao
+LR10,clears damp-heat
+LR10,benefits the lower jiao
+LR11,benefits the uterus
+LR11,regulates the Conception and Penetrating vessels
+LR12,eliminates cold from the Liver channel
+LR12,benefits the lower jiao
+LR13,spreads Liver qi and regulates qi
+LR13,harmonizes Liver and Spleen
+LR13,strengthens the Spleen
+LR13,regulates middle and lower jiao
+LR14,spreads Liver qi
+LR14,regulates qi
+LR14,invigorates blood
+LR14,disperses masses
+LR14,harmonizes Liver and Stomach
+GV1,regulates Du channel
+GV1,benefits anus
+GV1,treats hemorrhoids
+GV2,benefits lumbar region and legs
+GV2,dispels wind-damp
+GV3,benefits lumbar region and legs
+GV3,dispels cold
+GV4,tonifies kidneys
+GV4,fortifies yang
+GV4,benefits lumbar region
+GV5,regulates waterways
+GV5,benefits lumbar region
+GV6,unblocks bowels
+GV6,regulates small intestine
+GV7,regulates waterways
+GV8,unbinds chest
+GV8,descends lung qi
+GV9,regulates heart
+GV9,pacifies wind
+GV10,regulates lung qi
+GV11,benefits brain
+GV11,pacifies wind
+GV12,strengthens spleen
+GV12,resolves dampness
+GV13,releases exterior
+GV13,expels wind
+GV14,clears heat
+GV14,releases exterior
+GV15,benefits tongue
+GV15,treats muteness
+GV16,main point for wind in head and neck
+GV16,treats wind cold headache
+GV16,stiff neck
+GV16,dizziness
+GV16,visual dizziness
+GV16,numbness
+GV16,twitching
+GV16,tremors
+GV17,pacifies wind
+GV17,regulates Du
+GV18,pacifies wind
+GV19,extinguishes wind
+GV19,benefits head
+GV20,relieves headache
+GV20,stroke-related deficits
+GV20,dizziness
+GV20,and anxiety
+GV20,exerts neuroprotective effects by improving cerebral blood flow and reducing neuroinflammation.
+GV21,raises qi
+GV21,benefits head
+GV22,benefits senses
+GV22,calms spirit
+GV23,benefits nose
+GV23,treats eye disorders
+GV24,calms spirit
+GV24,benefits brain
+GV25,benefits nose
+GV25,treats rhinitis
+GV26,restores consciousness
+GV26,benefits face
+GV27,benefits gums
+GV27,clears heat
+GV28,benefits gums
+GV28,stops bleeding
+CV1,urination regulation
+CV1,genital disorders
+CV1,hemorrhoids
+CV1,resuscitation.
+CV2,regulates urination
+CV2,treats enuresis
+CV2,impotence
+CV2,and menstrual disorders.
+CV3,benefits the bladder
+CV3,regulates menstruation
+CV3,relieves dysmenorrhea and urinary retention.
+CV4,tonifies kidney and essence
+CV4,treats impotence
+CV4,infertility
+CV4,and collapse.
+CV5,warms yang
+CV5,promotes urination
+CV5,regulates menstruation
+CV5,treats leukorrhea.
+CV6,tonifies qi
+CV6,rescues collapse
+CV6,treats abdominal pain
+CV6,impotence
+CV6,irregular menstruation.
+CV7,regulates Chong and Ren
+CV7,stabilizes pregnancy
+CV7,treats infertility and dysmenorrhea.
+CV8,restores yang
+CV8,stops diarrhea
+CV8,treats collapse and cold abdominal pain (moxibustion only).
+CV9,promotes urination
+CV9,reduces edema and abdominal distention.
+ CV10,harmonizes stomach
+ CV10,promotes digestion
+ CV10,relieves water retention and bloating.
+ CV11,regulates qi
+ CV11,strengthens spleen
+ CV11,alleviates abdominal fullness and pain.
+CV12,tonifies spleen and stomach
+CV12,relieves nausea
+CV12,treats epigastric pain and poor appetite.
+CV13,harmonizes stomach
+CV13,descends rebellious qi
+CV13,treats food stagnation and vomiting.
+CV14,calms the mind
+CV14,alleviates chest pain
+CV14,treats palpitations and epilepsy.
+CV15,calms the spirit
+CV15,regulates chest qi
+CV15,treats anxiety
+CV15,palpitations
+CV15,and hysteria.
+CV16,regulates chest qi
+CV16,alleviates chest pain and fullness.
+CV17,opens chest
+CV17,regulates qi
+CV17,benefits lungs and heart.
+CV18,relieves chest congestion
+CV18,calms the spirit.
+CV19,benefits diaphragm
+CV19,alleviates cough and wheezing.
+CV20,opens the chest
+CV20,relieves cough and asthma.
+CV21,descends lung qi
+CV21,stops cough and wheezing.
+CV22,clears throat
+CV22,stops cough
+CV22,benefits voice and speech.
+CV23,benefits tongue and speech
+CV23,treats aphasia and salivation.
+CV24,relieves facial paralysis
+CV24,regulates saliva
+CV24,benefits mouth.
+LI4,relieves pain
+LI4,modulates immunity
+LI4,improves facial paralysis

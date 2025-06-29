@@ -1,0 +1,360 @@
+code,meridian_name
+LU1,Lung Meridian
+LU2,Lung Meridian
+LU3,Lung Meridian
+LU4,Lung Meridian
+LU5,Lung Meridian
+LU6,Lung Meridian
+LU7,Lung Meridian
+LU8,Lung Meridian
+LU9,Lung Meridian
+LU10,Lung Meridian
+LU11,Lung Meridian
+LI1,Large Intestine Meridian
+LI2,Large Intestine Meridian
+LI3,Large Intestine Meridian
+LI4,Large Intestine Meridian
+LI5,Large Intestine Meridian
+LI6,Large Intestine Meridian
+LI7,Large Intestine Meridian
+LI8,Large Intestine Meridian
+LI9,Large Intestine Meridian
+LI10,Large Intestine Meridian
+LI11,Large Intestine Meridian
+LI12,Large Intestine Meridian
+LI13,Large Intestine Meridian
+LI14,Large Intestine Meridian
+LI15,Large Intestine Meridian
+LI16,Large Intestine Meridian
+LI17,Large Intestine Meridian
+LI18,Large Intestine Meridian
+LI19,Large Intestine Meridian
+LI20,Large Intestine Meridian
+ST1,Stomach Meridian
+ST2,Stomach Meridian
+ST3,Stomach Meridian
+ST4,Stomach Meridian
+ST5,Stomach Meridian
+ST6,Stomach Meridian
+ST7,Stomach Meridian
+ST8,Stomach Meridian
+ST9,Stomach Meridian
+ST10,Stomach Meridian
+ST11,Stomach Meridian
+ST12,Stomach Meridian
+ST13,Stomach Meridian
+ST14,Stomach Meridian
+ST15,Stomach Meridian
+ST16,Stomach Meridian
+ST17,Stomach Meridian
+ST18,Stomach Meridian
+ST19,Stomach Meridian
+ST20,Stomach Meridian
+ST21,Stomach Meridian
+ST22,Stomach Meridian
+ST23,Stomach Meridian
+ST24,Stomach Meridian
+ST25,Stomach Meridian
+ST26,Stomach Meridian
+ST27,Stomach Meridian
+ST28,Stomach Meridian
+ST29,Stomach Meridian
+ST30,Stomach Meridian
+ST31,Stomach Meridian
+ST32,Stomach Meridian
+ST33,Stomach Meridian
+ST34,Stomach Meridian
+ST35,Stomach Meridian
+ST36,Stomach Meridian
+ST37,Stomach Meridian
+ST38,Stomach Meridian
+ST39,Stomach Meridian
+ST40,Stomach Meridian
+ST41,Stomach Meridian
+ST42,Stomach Meridian
+ST43,Stomach Meridian
+ST44,Stomach Meridian
+ST45,Stomach Meridian
+SP1,Spleen Meridian
+SP2,Spleen Meridian
+SP3,Spleen Meridian
+SP4,Spleen Meridian
+SP5,Spleen Meridian
+SP6,Spleen Meridian
+SP7,Spleen Meridian
+SP8,Spleen Meridian
+SP9,Spleen Meridian
+SP10,Spleen Meridian
+SP11,Spleen Meridian
+SP12,Spleen Meridian
+SP13,Spleen Meridian
+SP14,Spleen Meridian
+SP15,Spleen Meridian
+SP16,Spleen Meridian
+SP17,Spleen Meridian
+SP18,Spleen Meridian
+SP19,Spleen Meridian
+SP20,Spleen Meridian
+SP21,Spleen Meridian
+HT1,Heart Meridian
+HT2,Heart Meridian
+HT3,Heart Meridian
+HT4,Heart Meridian
+HT5,Heart Meridian
+HT6,Heart Meridian
+HT7,Heart Meridian
+HT8,Heart Meridian
+HT9,Heart Meridian
+SI1,Small Intestine Meridian
+SI2,Small Intestine Meridian
+SI3,Small Intestine Meridian
+SI4,Small Intestine Meridian
+SI5,Small Intestine Meridian
+SI6,Small Intestine Meridian
+SI7,Small Intestine Meridian
+SI8,Small Intestine Meridian
+SI9,Small Intestine Meridian
+SI10,Small Intestine Meridian
+SI11,Small Intestine Meridian
+SI12,Small Intestine Meridian
+SI13,Small Intestine Meridian
+SI14,Small Intestine Meridian
+SI15,Small Intestine Meridian
+SI16,Small Intestine Meridian
+SI17,Small Intestine Meridian
+SI18,Small Intestine Meridian
+SI19,Small Intestine Meridian
+BL1,Bladder Meridian
+BL2,Bladder Meridian
+BL3,Bladder Meridian
+BL4,Bladder Meridian
+BL5,Bladder Meridian
+BL6,Bladder Meridian
+BL7,Bladder Meridian
+BL8,Bladder Meridian
+BL9,Bladder Meridian
+BL10,Bladder Meridian
+BL11,Bladder Meridian
+BL12,Bladder Meridian
+BL15,Bladder Meridian
+BL18,Bladder Meridian
+BL19,Bladder Meridian
+BL20,Bladder Meridian
+BL21,Bladder Meridian
+BL22,Bladder Meridian
+BL23,Bladder Meridian
+BL24,Bladder Meridian
+BL25,Bladder Meridian
+BL26,Bladder Meridian
+BL27,Bladder Meridian
+BL28,Bladder Meridian
+BL29,Bladder Meridian
+BL30,Bladder Meridian
+BL31,Bladder Meridian
+BL32,Bladder Meridian
+BL33,Bladder Meridian
+BL34,Bladder Meridian
+BL35,Bladder Meridian
+BL36,Bladder Meridian
+BL37,Bladder Meridian
+BL38,Bladder Meridian
+BL39,Bladder Meridian
+BL40,Bladder Meridian
+BL41,Bladder Meridian
+BL42,Bladder Meridian
+BL43,Bladder Meridian
+BL44,Bladder Meridian
+BL45,Bladder Meridian
+BL46,Bladder Meridian
+BL47,Bladder Meridian
+BL48,Bladder Meridian
+BL49,Bladder Meridian
+BL50,Bladder Meridian
+BL51,Bladder Meridian
+BL52,Bladder Meridian
+BL53,Bladder Meridian
+BL54,Bladder Meridian
+BL55,Bladder Meridian
+BL56,Bladder Meridian
+BL57,Bladder Meridian
+BL58,Bladder Meridian
+BL59,Bladder Meridian
+BL60,Bladder Meridian
+BL61,Bladder Meridian
+BL62,Bladder Meridian
+BL63,Bladder Meridian
+BL64,Bladder Meridian
+BL65,Bladder Meridian
+BL66,Bladder Meridian
+BL67,Bladder Meridian
+KI1,Kidney Meridian
+KI2,Kidney Meridian
+KI3,Kidney Meridian
+KI4,Kidney Meridian
+KI5,Kidney Meridian
+KI6,Kidney Meridian
+KI7,Kidney Meridian
+KI8,Kidney Meridian
+KI9,Kidney Meridian
+KI10,Kidney Meridian
+KI11,Kidney Meridian
+KI12,Kidney Meridian
+KI13,Kidney Meridian
+KI14,Kidney Meridian
+KI15,Kidney Meridian
+KI16,Kidney Meridian
+KI17,Kidney Meridian
+KI18,Kidney Meridian
+KI19,Kidney Meridian
+KI20,Kidney Meridian
+KI21,Kidney Meridian
+KI22,Kidney Meridian
+KI23,Kidney Meridian
+KI24,Kidney Meridian
+KI25,Kidney Meridian
+KI26,Kidney Meridian
+KI27,Kidney Meridian
+PC1,Pericardium Meridian
+PC2,Pericardium Meridian
+PC3,Pericardium Meridian
+PC4,Pericardium Meridian
+PC5,Pericardium Meridian
+PC6,Pericardium Meridian
+PC7,Pericardium Meridian
+PC8,Pericardium Meridian
+PC9,Pericardium Meridian
+TE1,Triple Energizer Meridian
+TE2,Triple Energizer Meridian
+TE3,Triple Energizer Meridian
+TE4,Triple Energizer Meridian
+TE5,Triple Energizer Meridian
+TE6,Triple Energizer Meridian
+TE7,Triple Energizer Meridian
+TE8,Triple Energizer Meridian
+TE9,Triple Energizer Meridian
+TE10,Triple Energizer Meridian
+TE11,Triple Energizer Meridian
+TE12,Triple Energizer Meridian
+TE13,Triple Energizer Meridian
+TE14,Triple Energizer Meridian
+TE15,Triple Energizer Meridian
+TE16,Triple Energizer Meridian
+TE17,Triple Energizer Meridian
+TE18,Triple Energizer Meridian
+TE19,Triple Energizer Meridian
+TE20,Triple Energizer Meridian
+TE21,Triple Energizer Meridian
+TE22,Triple Energizer Meridian
+TE23,Triple Energizer Meridian
+GB1,Gallbladder Meridian
+GB2,Gallbladder Meridian
+GB3,Gallbladder Meridian
+GB4,Gallbladder Meridian
+GB5,Gallbladder Meridian
+GB6,Gallbladder Meridian
+GB7,Gallbladder Meridian
+GB8,Gallbladder Meridian
+GB9,Gallbladder Meridian
+GB10,Gallbladder Meridian
+GB11,Gallbladder Meridian
+GB12,Gallbladder Meridian
+GB13,Gallbladder Meridian
+GB14,Gallbladder Meridian
+GB15,Gallbladder Meridian
+GB16,Gallbladder Meridian
+GB17,Gallbladder Meridian
+GB18,Gallbladder Meridian
+GB19,Gallbladder Meridian
+GB20,Gallbladder Meridian
+GB21,Gallbladder Meridian
+GB22,Gallbladder Meridian
+GB23,Gallbladder Meridian
+GB24,Gallbladder Meridian
+GB25,Gallbladder Meridian
+GB26,Gallbladder Meridian
+GB27,Gallbladder Meridian
+GB28,Gallbladder Meridian
+GB29,Gallbladder Meridian
+GB30,Gallbladder Meridian
+GB31,Gallbladder Meridian
+GB32,Gallbladder Meridian
+GB33,Gallbladder Meridian
+GB34,Gallbladder Meridian
+GB35,Gallbladder Meridian
+GB36,Gallbladder Meridian
+GB37,Gallbladder Meridian
+GB38,Gallbladder Meridian
+GB39,Gallbladder Meridian
+GB40,Gallbladder Meridian
+GB41,Gallbladder Meridian
+GB42,Gallbladder Meridian
+GB43,Gallbladder Meridian
+GB44,Gallbladder Meridian
+LR1,Liver Meridian
+LR2,Liver Meridian
+LR3,Liver Meridian
+LR4,Liver Meridian
+LR5,Liver Meridian
+LR6,Liver Meridian
+LR7,Liver Meridian
+LR8,Liver Meridian
+LR9,Liver Meridian
+LR10,Liver Meridian
+LR11,Liver Meridian
+LR12,Liver Meridian
+LR13,Liver Meridian
+LR14,Liver Meridian
+GV16,Governor Vessel
+GV20,Governor Vessel
+GV1,Governor Vessel
+GV2,Governor Vessel
+GV3,Governor Vessel
+GV4,Governor Vessel
+GV5,Governor Vessel
+GV6,Governor Vessel
+GV7,Governor Vessel
+GV8,Governor Vessel
+GV9,Governor Vessel
+GV10,Governor Vessel
+GV11,Governor Vessel
+GV12,Governor Vessel
+GV13,Governor Vessel
+GV14,Governor Vessel
+GV15,Governor Vessel
+GV16,Governor Vessel
+GV17,Governor Vessel
+GV18,Governor Vessel
+GV19,Governor Vessel
+GV20,Governor Vessel
+GV21,Governor Vessel
+GV22,Governor Vessel
+GV23,Governor Vessel
+GV24,Governor Vessel
+GV25,Governor Vessel
+GV26,Governor Vessel
+GV27,Governor Vessel
+GV28,Governor Vessel
+CV1,Conception Vessel
+CV2,Conception Vessel
+CV3,Conception Vessel
+CV4,Conception Vessel
+CV5,Conception Vessel
+CV6,Conception Vessel
+CV7,Conception Vessel
+CV8,Conception Vessel
+CV9,Conception Vessel
+ CV10,Conception Vessel
+ CV11,Conception Vessel
+CV12,Conception Vessel
+CV13,Conception Vessel
+CV14,Conception Vessel
+CV15,Conception Vessel
+CV16,Conception Vessel
+CV17,Conception Vessel
+CV18,Conception Vessel
+CV19,Conception Vessel
+CV20,Conception Vessel
+CV21,Conception Vessel
+CV22,Conception Vessel
+CV23,Conception Vessel
+CV24,Conception Vessel

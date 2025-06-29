@@ -1,0 +1,1046 @@
+code,diseases_name
+LU1,cough
+LU1,asthma
+LU1,chest pain
+LU2,cough
+LU2,asthma
+LU2,chest pain
+LU2,shoulder pain
+LU3,cough
+LU3,asthma
+LU3,chest pain
+LU3,arm pain
+LU4,cough
+LU4,pain in the chest
+LU5,cough
+LU5,fever
+LU6,bleeding
+LU6,elbow pain
+LU7,headache
+LU7,cough
+LU7,facial paralysis
+LU8,cough
+LU8,asthma
+LU8,wrist pain
+LU9,cough
+LU9,asthma
+LU9,wrist pain
+LU10,fever
+LU10,palm pain
+LU11,sore throat
+LU11,coma
+LU11,fever
+LI1,toothache
+LI1,sore throat
+LI1,fever
+LI2,toothache
+LI2,facial swelling
+LI3,finger pain
+LI3,eye pain
+LI5,wrist pain
+LI5,tinnitus
+LI5,headache
+LI6,tinnitus
+LI6,nasal congestion
+LI7,headache
+LI7,facial pain
+LI7,abdominal pain
+LI8,abdominal pain
+LI8,diarrhea
+LI8,arm pain
+LI9,arm pain
+LI9,numbness
+LI9,motor impairment of upper limb
+LI10,arm pain
+LI10,diarrhea
+LI10,toothache
+LI11,fever
+LI11,skin diseases
+LI11,arm pain
+LI12,elbow pain
+LI12,numbness of upper limb
+LI12,paralysis of arm
+LI13,arm pain
+LI13,numbness
+LI14,pain in the shoulder and arm
+LI15,shoulder pain
+LI15,frozen shoulder
+LI16,shoulder pain
+LI16,frozen shoulder
+LI16,neck stiffness
+LI17,sore throat
+LI17,difficulty swallowing
+LI17,goiter
+LI18,sore throat
+LI18,voice hoarseness
+LI18,difficulty swallowing
+LI19,nasal congestion
+LI19,facial paralysis
+LI20,nasal congestion
+LI20,facial paralysis
+ST1,eye disorders
+ST1,tearing
+ST2,facial pain
+ST2,eye twitching
+ST3,facial pain
+ST3,trigeminal neuralgia
+ST3,facial paralysis
+ST4,facial paralysis
+ST4,drooling
+ST5,facial pain
+ST5,jaw stiffness
+ST6,toothache
+ST6,jaw stiffness
+ST7,tinnitus
+ST7,toothache
+ST8,headache
+ST8,dizziness
+ST9,sore throat
+ST9,hypertension
+ST10,thyroid disorders
+ST10,neck swelling
+ST11,neck pain
+ST11,swelling in neck region
+ST12,asthma
+ST12,cough
+ST12,chest congestion
+ST13,chest congestion
+ST13,cough
+ST13,asthma
+ST14,chest pain
+ST14,cough
+ST14,asthma
+ST15,chest pain
+ST15,cough
+ST15,asthma
+ST16,chest pain
+ST16,cough
+ST16,asthma
+ST17,mastitis
+ST17,postpartum lactation deficiency
+ST18,breast pain
+ST18,chest congestion
+ST19,epigastric pain
+ST19,abdominal distension
+ST19,nausea
+ST20,epigastric pain
+ST20,abdominal distension
+ST20,nausea
+ST21,stomach pain
+ST21,vomiting
+ST22,abdominal pain
+ST22,distension
+ST22,borborygmus
+ST22,diarrhea
+ST23,epigastric pain
+ST23,irritability
+ST23,poor appetite
+ST23,mania
+ST24,gastric pain
+ST24,vomiting
+ST24,mania
+ST24,epilepsy
+ST25,diarrhea
+ST25,constipation
+ST25,abdominal pain
+ST26,abdominal pain
+ST26,hernia
+ST26,dysmenorrhea
+ST27,lower abdominal pain
+ST27,hernia
+ST27,irregular menstruation
+ST27,seminal emission
+ST28,urinary disorders
+ST28,edema
+ST29,gynecological disorders
+ST29,hernia
+ST30,irregular menstruation
+ST30,impotence
+ST31,pain in the thigh
+ST31,muscular atrophy
+ST31,motor impairment of the lower limb
+ST32,leg weakness
+ST32,knee pain
+ST33,weakness of knee
+ST33,numbness
+ST33,motor impairment
+ST33,pain in the leg
+ST34,knee pain
+ST34,stomachache
+ST35,knee pain
+ST35,limited knee mobility
+ST35,swelling
+ST36,digestive disorders
+ST36,general weakness
+ST37,diarrhea
+ST37,abdominal pain
+ST38,pain and weakness of lower leg
+ST38,shoulder pain
+ST38,motor impairment
+ST39,lower abdominal pain
+ST39,leg paralysis
+ST40,cough with phlegm
+ST40,dizziness
+ST40,mania
+ST40,constipation
+ST40,epilepsy
+ST41,ankle pain
+ST41,headache
+ST42,facial swelling
+ST42,toothache
+ST43,facial swelling
+ST43,stomach pain
+ST44,toothache
+ST44,stomach ache
+ST45,nightmares
+ST45,toothache
+SP1,uterine bleeding
+SP1,nightmares
+SP2,abdominal distension
+SP2,diarrhea
+SP2,febrile disease without sweating
+SP3,abdominal distension
+SP3,diarrhea
+SP3,fatigue
+SP4,stomach ache
+SP4,vomiting
+SP5,abdominal pain
+SP5,edema
+SP5,digestive disorders
+SP6,gynecological disorders
+SP6,insomnia
+SP7,abdominal pain
+SP7,diarrhea
+SP7,leg weakness
+SP8,abdominal pain
+SP8,diarrhea
+SP9,urinary disorders
+SP9,knee pain
+SP10,skin diseases
+SP10,irregular menstruation
+SP11,thigh pain
+SP11,muscle spasm
+SP11,circulatory issues
+SP12,hernia
+SP12,lower abdominal pain
+SP13,abdominal pain
+SP13,hernia relief
+SP14,abdominal pain
+SP14,intestinal disorders
+SP15,constipation
+SP15,abdominal distension
+SP16,abdominal pain
+SP16,digestive disorders
+SP17,chest pain
+SP17,rib pain
+SP17,digestive issues
+SP18,chest pain
+SP18,breast pain
+SP18,mastitis
+SP19,chest pain
+SP19,cough
+SP19,mastitis
+SP20,chest pain
+SP20,cough
+SP20,breast issues
+SP21,chest pain
+SP21,general weakness
+HT1,chest pain
+HT1,arm pain
+HT2,elbow pain
+HT2,arm paralysis
+HT2,chest tightness
+HT3,heart pain
+HT3,elbow pain
+HT4,palpitations
+HT4,chest pain
+HT4,arm motor impairment
+HT5,palpitations
+HT5,sore throat
+HT6,heart pain
+HT6,palpitations
+HT6,sweating disorders
+HT7,insomnia
+HT7,anxiety
+HT8,palpitations
+HT8,hand pain
+HT9,fever
+HT9,chest pain
+SI1,lactation disorders
+SI1,sore throat
+SI2,headache
+SI2,sore throat
+SI2,febrile diseases
+SI3,neck stiffness
+SI3,malaria
+SI4,wrist pain
+SI4,tinnitus
+SI5,wrist pain
+SI5,wrist sprain
+SI5,hand numbness
+SI6,blurred vision
+SI6,shoulder pain
+SI7,headache
+SI7,neck stiffness
+SI7,wrist pain
+SI7,febrile diseases
+SI8,elbow pain
+SI8,epilepsy
+SI9,shoulder pain
+SI9,arm numbness
+SI10,shoulder pain
+SI10,scapular stiffness
+SI10,limited shoulder movement
+SI11,shoulder pain
+SI11,scapular stiffness
+SI11,upper back pain
+SI12,shoulder pain
+SI12,scapular stiffness
+SI12,upper back tension
+SI13,shoulder pain
+SI13,scapular stiffness
+SI13,upper back pain
+SI14,shoulder pain
+SI14,upper back stiffness
+SI15,neck pain
+SI15,shoulder stiffness
+SI15,upper back pain
+SI16,sore throat
+SI16,neck swelling
+SI16,hoarseness
+SI17,sore throat
+SI17,swollen lymph nodes
+SI17,neck pain
+SI18,facial paralysis
+SI18,trigeminal neuralgia
+SI18,facial pain
+SI19,tinnitus
+SI19,deafness
+BL1,eye disorders
+BL1,headache
+BL2,headache
+BL2,eye fatigue
+BL3,headache
+BL3,frontal pain
+BL3,sinusitis
+BL4,headache
+BL4,eye disorders
+BL4,frontal pain
+BL5,headache
+BL5,eye strain
+BL5,frontal pain
+BL6,headache
+BL6,eye strain
+BL6,visual disturbances
+BL7,headache
+BL7,dizziness
+BL7,nasal congestion
+BL8,headache
+BL8,dizziness
+BL8,nasal congestion
+BL9,occipital headache
+BL9,neck stiffness
+BL9,blurry vision
+BL10,neck pain
+BL10,nasal congestion
+BL11,cough
+BL11,bone disorders
+BL12,common cold
+BL12,cough
+BL15,heart disorders
+BL15,anxiety
+BL18,liver disorders
+BL18,eye problems
+BL19,gallbladder pain
+BL19,jaundice
+BL20,digestive disorders
+BL20,edema
+BL21,stomach pain
+BL21,vomiting
+BL22,abdominal distension
+BL22,edema; lumbar pain
+BL23,kidney deficiency
+BL23,tinnitus; irregular menstruation
+BL24,intestinal rumbling
+BL24,dysmenorrhea; leg weakness
+BL25,constipation
+BL25,diarrhea; lumbar stiffness
+BL26,enuresis
+BL26,frequent urination; sacral pain
+BL27,seminal emission
+BL27,leukorrhea; sacral pain
+BL28,dysuria; lumbar stiffness
+BL29,diarrhea
+BL29,hernia; sacral pain
+BL30,irregular menstruation; leg pain
+BL31,irregular menstruation
+BL31,prolapse; sacral pain
+BL32,dysmenorrhea
+BL32,seminal emission; leg numbness
+BL33,irregular menstruation
+BL33,dysuria
+BL33,lumbosacral pain
+BL34,dysmenorrhea
+BL34,constipation
+BL34,lower limb numbness
+BL35,hemorrhoids
+BL35,diarrhea
+BL35,impotence
+BL36,sciatica
+BL36,lower limb paralysis
+BL37,lumbocrural pain
+BL37,thigh muscle spasm
+BL38,knee numbness
+BL38,calf cramp
+BL39,edema
+BL39,cystitis
+BL39,leg cramp
+BL40,lumbago
+BL40,heatstroke
+BL40,erysipelas (bloodletting point)
+BL41,stiff shoulders
+BL41,neck pain
+BL42,tuberculosis
+BL42,cough
+BL42,scapular pain
+BL43,chronic cough
+BL43,night sweating (key wellness point)
+BL44,palpitations
+BL44,cough
+BL44,back stiffness
+BL45,asthma
+BL45,chest oppression
+BL46,hiccups
+BL46,spinal stiffness
+BL47,hypochondriac pain
+BL47,red eyes
+BL48,jaundice
+BL48,abdominal cramping
+BL49,bloating
+BL49,vomiting
+BL50,gastralgia
+BL50,edema
+BL51,constipation
+BL51,mastitis
+BL52,nocturnal emission
+BL52,lumbar pain
+BL53,urinary retention
+BL53,hernia
+BL54,sciatica
+BL54,hemorrhoids
+BL55,lumbocrural pain
+BL55,limb paralysis
+BL55,hernia
+BL56,calf pain
+BL56,hemorrhoids
+BL56,back stiffness
+BL57,hemorrhoids
+BL57,leg cramps
+BL57,beriberi
+BL58,headache
+BL58,dizziness
+BL58,nasal congestion
+BL59,headache
+BL59,lumbosacral pain
+BL59,limb paralysis
+BL60,headache
+BL60,neck stiffness
+BL60,dystocia
+BL61,heel pain
+BL61,epilepsy
+BL61,beriberi
+BL62,insanity
+BL62,mania
+BL62,ankle pain
+BL63,infantile convulsions
+BL63,lumbago
+BL63,lateral ankle pain
+BL64,headache
+BL64,neck stiffness
+BL64,eye opacity
+BL65,headache
+BL65,neck stiffness
+BL65,mania
+BL66,headache
+BL66,nosebleed
+BL66,mania
+BL67,malpositioned fetus
+BL67,dystocia
+BL67,headache
+KI1,syncope
+KI1,headache
+KI1,hypertension
+KI2,irregular menstruation
+KI2,nocturnal emission
+KI2,diabetes
+KI3,tinnitus
+KI3,lumbago
+KI3,insomnia
+KI4,urinary retention/heel pain/dementia
+KI5,dysmenorrhea
+KI5,dysuria
+KI5,blurred vision
+KI6,insomnia
+KI6,sore throat
+KI6,irregular menstruation
+KI7,night sweating
+KI7,edema
+KI7,limb paralysis
+KI8,metrorrhagia
+KI8,testicular pain
+KI8,diarrhea
+KI9,mania
+KI9,hernia
+KI9,calf pain
+KI10,impotence
+KI10,knee pain
+KI10,UTI
+KI11,nocturnal emission
+KI11,dysuria
+KI11,genital pain
+KI12,leukorrhea
+KI12,infertility
+KI12,penile pain
+KI13,irregular menstruation
+KI13,diarrhea/lumbago
+KI14,metrorrhagia
+KI14,constipation
+KI14,postpartum pain
+KI15,abdominal pain
+KI15,constipation
+KI15,irregular menstruation
+KI16,abdominal pain
+KI16,vomiting
+KI16,hernia
+KI17,stomachache
+KI17,abdominal distension
+KI17,constipation
+KI18,vomiting
+KI18,infertility
+KI18,constipation
+KI19,abdominal distension
+KI19,cardiac pain
+KI19,malaria
+KI20,abdominal pain
+KI20,vomiting
+KI20,palpitations
+KI21,stomachache
+KI21,belching
+KI21,vomiting
+KI22,cough
+KI22,chest distension
+KI22,vomiting
+KI23,cough
+KI23,asthma
+KI23,mastitis
+KI24,cough
+KI24,chest pain
+KI24,vomiting
+KI25,cough
+KI25,asthma
+KI25,chest pain
+KI26,cough
+KI26,asthma
+KI26,chest distension
+KI27,cough
+KI27,asthma
+KI27,chest pain
+PC1,chest pain
+PC1,cough
+PC1,asthma
+PC1,insufficient lactation
+PC2,chest pain
+PC2,cough
+PC2,hypochondriac distension
+PC3,febrile disorders
+PC3,palpitations
+PC3,nausea
+PC3,vomiting
+PC4,chest pain
+PC4,palpitations
+PC4,anxiety
+PC4,bleeding disorders
+PC5,chest pain
+PC5,phlegm obstruction
+PC5,insomnia
+PC6,nausea
+PC6,vomiting
+PC6,chest pain
+PC6,palpitations
+PC6,insomnia
+PC7,insomnia
+PC7,palpitations
+PC7,chest pain
+PC7,epilepsy
+PC8,high fever
+PC8,delirium
+PC8,insomnia
+PC8,mouth ulcers
+PC9,loss of consciousness
+PC9,convulsions
+PC9,aphasia
+TE1,sore throat
+TE1,dry mouth/tongue
+TE1,headache
+TE1,arm/ elbow pain
+TE1,eye disorders (e.g. cataract)
+TE1,blurred vision
+TE2,palpitations
+TE2,delirium
+TE2,throat swelling
+TE2,cold limbs
+TE2,headache
+TE2,deafness
+TE2,gingival pain
+TE2,arm pain
+TE3,fevers without sweating
+TE3,dizziness/headache
+TE3,deafness
+TE3,throat swelling
+TE3,elbow/arm pain
+TE3,finger mobility issues
+TE4,diabetes-like symptoms (polydipsia)
+TE4,dry mouth
+TE4,febrile cold-heat syndromes
+TE4,wrist injury
+TE4,shoulder/arm pain
+TE5,deafness
+TE5,finger pain
+TE5,impaired arm movement
+TE5,elbow stiffness
+TE5,headache
+TE5,throat swelling
+TE6,fever without sweating
+TE6,shoulder/arm heaviness
+TE6,rib pain
+TE6,vomiting
+TE6,constipation
+TE6,lockjaw
+TE6,seizures
+TE6,external pathogens
+TE7,seizures
+TE7,body pain
+TE7,deafness
+TE8,aphonia
+TE8,deafness
+TE8,lethargy
+TE8,limb weakness
+TE9,sudden asthma
+TE9,deafness
+TE9,lower toothache/caries
+TE10,chest pain
+TE10,cough
+TE10,dyspnea
+TE10,palpitations
+TE10,deafness
+TE10,throat swelling
+TE10,arm/ shoulder pain
+TE11,shoulder pain/stiffness
+TE11,difficulty raising arm
+TE11,dressing issues
+TE12,wind-damp pain
+TE12,neck stiffness
+TE12,headache
+TE12,epilepsy
+TE13,arm pain
+TE13,febrile symptoms
+TE13,shoulder blade pain
+TE14,arm pain
+TE14,heavy shoulder
+TE15,chest oppression
+TE15,shoulder/arm soreness
+TE15,no sweating
+TE15,stiff neck
+TE16,ear/neck disorders
+TE17,facial paralysis/spasm
+TE17,tinnitus
+TE17,deafness
+TE17,parotitis
+TE17,otitis media
+TE17,facial/head pain
+TE17,mouth asymmetry
+TE17,toothache
+TE18,pediatric convulsions (seizures)
+TE18,epilepsy
+TE18,headache
+TE18,tinnitus
+TE18,deafness
+TE18,vomiting
+TE18,expectoration
+TE19,headache
+TE19,tinnitus
+TE19,ear pain
+TE19,pediatric seizures
+TE19,vomiting with salivation
+TE20,migraine
+TE20,parotitis
+TE20,tinnitus
+TE20,toothache
+TE20,gingival swelling
+TE20,ocular pain
+TE20,oral disorders
+TE20,stiff neck
+TE20,facial swelling/pain
+TE21,deafness
+TE21,tinnitus
+TE21,ear blockage
+TE21,toothache
+TE21,TMJ disorders
+TE21,otitis media
+TE21,jaw/neck pain
+TE21,dizziness
+TE22,headache
+TE22,tinnitus
+TE22,deafness
+TE22,lockjaw
+TE22,oral/facial asymmetry
+TE22,facial paralysis
+TE22,trigeminal neuralgia
+TE22,TMJ disorders
+TE22,nasal congestion
+TE23,eye redness/swelling
+TE23,eyelid twitching
+TE23,headache
+TE23,toothache
+TE23,epilepsy
+GB1,headache
+GB1,eye redness/swelling
+GB1,tearing in wind
+GB1,conjunctivitis
+GB1,keratitis
+GB1,optic atrophy
+GB1,trigeminal neuralgia
+GB1,facial paralysis
+GB1,vision loss
+GB1,night blindness
+GB1,glaucoma
+GB1,cataract
+GB1,dacryocystitis
+GB2,jaw pain
+GB3,facial paralysis
+GB3,trigeminal neuralgia
+GB4,headache
+GB4,facial pain
+GB5,headache
+GB5,dizziness
+GB6,headache
+GB6,jaw pain
+GB7,headache
+GB7,facial paralysis
+GB8,migraine
+GB8,vertigo
+GB9,headache
+GB9,dizziness
+GB10,headache
+GB10,neck pain
+GB11,headache
+GB11,neck rigidity
+GB12,headache
+GB12,neck pain
+GB13,vertex headache
+GB13,insomnia
+GB14,frontal headache
+GB14,sinus pain
+GB15,headache
+GB15,dizziness
+GB16,eye pain
+GB16,headache
+GB17,parietal headache
+GB17,dizziness
+GB18,headache
+GB18,nasal congestion
+GB19,headache
+GB19,neck stiffness
+GB20,Headache
+GB20,neck stiffness
+GB20,eye disorders
+GB21,shoulder pain
+GB22,axillary pain
+GB22,cough
+GB23,chest pain
+GB23,cough
+GB24,chest pain
+GB24,gallbladder disorders
+GB25,kidney pain
+GB25,abdominal distension
+GB26,lateral abdominal pain
+GB26,menstrual disorders
+GB27,lateral hip pain
+GB27,hernia
+GB28,lower abdominal pain
+GB28,hernia
+GB29,hip pain
+GB29,sciatica
+GB30,sciatica
+GB30,hip pain
+GB31,leg pain
+GB31,numbness
+GB32,leg pain
+GB32,muscle cramps
+GB33,knee pain
+GB33,swelling
+GB34,knee pain
+GB34,muscle tightness
+GB35,leg pain
+GB35,muscle cramps
+GB36,leg pain
+GB36,sciatica
+GB37,eye disorders
+GB37,leg pain
+GB38,leg pain
+GB38,headaches
+GB39,neck pain
+GB39,leg pain
+GB40,ankle pain
+GB40,headaches
+GB41,headache
+GB41,foot pain
+GB42,headache
+GB42,foot pain
+GB43,headache
+GB43,tinnitus
+GB44,insomnia
+GB44,headaches
+LR1,hernia
+LR1,enuresis
+LR1,urinary retention
+LR1,amenorrhea
+LR1,uterine bleeding
+LR1,prolapse
+LR1,epilepsy
+LR1,menstrual issues
+LR1,constipation
+LR1,diabetes
+LR2,headache
+LR2,dizziness
+LR2,red/swollen eyes
+LR2,epilepsy
+LR2,stroke
+LR2,menstrual disorders
+LR2,hernia
+LR2,enuresis
+LR2,chest/side pain
+LR3,hypertension
+LR3,headache
+LR3,red eyes
+LR3,menstrual disorders
+LR3,trauma
+LR4,regulates menstruation
+LR4,chest/side distension
+LR5,chest/side distension
+LR5,jaundice
+LR5,indigestion
+LR6,treats blood stasis like chest/side pain
+LR6,menstrual disorders
+LR7,knee pain
+LR7,leg disorders
+LR8,urinary/reproductive disorders
+LR8,enuresis
+LR8,lower abdominal pain
+LR8,scrotal pain
+LR9,flank pain
+LR9,menstrual disorders
+LR10,abdominal distension
+LR10,leg heaviness
+LR10,indigestion
+LR11,abdominal pain
+LR11,urinary issues
+LR12,acute chest/lateral rib pain
+LR13,hypochondriac pain
+LR13,indigestion
+LR13,liver disorders
+LR13,jaundice
+LR13,menstrual disorders
+LR14,liver/gallbladder conditions
+LR14,flank pain
+LR14,digestive issues
+LR14,menstrual disorders
+LR14,liver Qi stagnation
+GV1,hemorrhoids
+GV1,rectal prolapse
+GV1,constipation
+GV1,diarrhea/dysentery
+GV1,low back & sacral pain
+GV1,epilepsy
+GV2,low back pain
+GV3,low back and sacral stiffness and pain
+GV4,nocturnal emission
+GV4,impotence
+GV4,premature ejaculation
+GV4,menstrual irregularity
+GV4,urinary issues
+GV4,low back pain
+GV4,dizziness
+GV4,epilepsy
+GV5,back pain and spinal issues
+GV6,spinal pain and stiffness
+GV7,shoulder/back and spinal disorders
+GV8,muscle contracture and back stiffness
+GV9,muscular tension and stiffness in the back
+GV10,mental calm
+GV10,also used for back pain
+GV11,insomnia
+GV11,palpitation
+GV11,and back pain
+GV12,fatigue
+GV12,shoulder/back stiffness
+GV13,cough
+GV13,fever
+GV13,neck/shoulder issues
+GV14,fever
+GV14,headache
+GV14,stiff neck
+GV14,common cold
+GV14,cough
+GV14,shoulder/back pain
+GV15,speech loss
+GV15,throat disorders
+GV16,headache
+GV16,dizziness
+GV16,insomnia
+GV16,brain-related disorders
+GV17,headache
+GV17,dizziness
+GV17,stiff neck
+GV17,diarrhea
+GV18,heaviness of head
+GV18,dizziness
+GV18,headache
+GV19,headache
+GV19,insomnia
+GV19,dizziness
+GV19,hair loss
+GV19,memory loss
+GV19,epilepsy
+GV20,headache
+GV20,dizziness
+GV20,tinnitus
+GV20,stroke
+GV20,aphasia
+GV20,rectal prolapse
+GV20,BP issues
+GV21,headache
+GV21,dizziness
+GV21,insomnia
+GV21,brain-related disorders
+GV22,headache
+GV22,dizziness
+GV23,headache
+GV23,nasal congestion
+GV23,insomnia
+GV24,headache
+GV24,dizziness
+GV24,insomnia
+GV24,brain-related disorders
+GV25,nasal congestion
+GV25,headache
+GV26,coma
+GV26,convulsions
+GV26,epilepsy
+GV27,lip numbness
+GV27,speech problems
+GV27,facial disorders
+GV28,oral and dental disorders
+GV28,toothache
+CV1,nocturnal emissions
+CV1,prolapse
+CV1,constipation
+CV1,diarrhea
+CV1,gynecological issues
+CV2,menstrual irregularities
+CV2,enuresis
+CV2,diarrhea
+CV2,low back pain
+CV3,lower abdominal pain
+CV3,enuresis
+CV3,menstrual disorders
+CV3,prostate issues
+CV4,nocturnal emission
+CV4,menstrual irregularity
+CV4,low back pain
+CV4,abdominal pain
+CV4,diarrhea
+CV4,cold limbs
+CV4,fatigue
+CV5,urination difficulty
+CV5,irregular menstruation
+CV5,seminal emission
+CV5,leukorrhea
+CV5,abdominal pain
+CV6,fatigue
+CV6,impotence
+CV6,menstrual disorder
+CV6,abdominal pain
+CV6,bloating
+CV7,menstrual disorder
+CV7,leucorrhea
+CV7,abdominal pain
+CV7,infertility
+CV8,diarrhea
+CV8,prolapse
+CV8,collapse
+CV8,abdominal pain
+CV8,cold syndrome
+CV9,edema
+CV9,difficult urination
+CV9,abdominal bloating
+CV9,diarrhea
+ CV10,stomachache
+ CV10,vomiting
+ CV10,indigestion
+ CV10,abdominal distension
+ CV11,epigastric pain
+ CV11,vomiting
+ CV11,bloating
+ CV11,diarrhea
+CV12,epigastric pain
+CV12,vomiting
+CV12,indigestion
+CV12,bloating
+CV12,jaundice
+CV13,stomach pain
+CV13,nausea
+CV13,vomiting
+CV13,loss of appetite
+CV14,palpitations
+CV14,stomach pain
+CV14,vomiting
+CV14,epilepsy
+CV14,insomnia
+CV15,heart pain
+CV15,chest tightness
+CV15,mania
+CV15,insomnia
+CV16,chest pain
+CV16,hiccups
+CV16,cough
+CV17,asthma
+CV17,cough
+CV17,chest pain
+CV17,insufficient lactation
+CV18,chest pain
+CV18,cough
+CV18,asthma
+CV19,chest tightness
+CV19,cough
+CV19,asthma
+CV20,cough
+CV20,asthma
+CV20,chest fullness
+CV21,cough
+CV21,asthma
+CV21,sore throat
+CV22,sore throat
+CV22,asthma
+CV22,cough
+CV22,aphonia
+CV23,stiff tongue
+CV23,aphonia
+CV23,sore throat
+CV24,facial paralysis
+CV24,toothache
+CV24,drooling
+CV24,facial deviation
+LI4,headache
+LI4,toothache
+LI4,facial disorders

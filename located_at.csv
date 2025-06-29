@@ -1,0 +1,360 @@
+code,region_name
+LU1,anterior chest
+LU2,anterior chest
+LU3,anterolateral arm
+LU4,anterolateral arm
+LU5,arm
+LU6,forearm
+LU7,forearm
+LU8,anterolateral forearm
+LU9,wrist
+LU10,palm
+LU11,finger
+LI1,finger
+LI2,finger
+LI3,hand dorsum
+LI4,hand
+LI5,wrist
+LI6,forearm
+LI7,posterolateral forearm
+LI8,posterolateral forearm
+LI9,posterolateral forearm
+LI10,forearm
+LI11,elbow
+LI12,posterolateral elbow
+LI13,lateral arm
+LI14,lateral arm
+LI15,shoulder girdle
+LI16,shoulder girdle
+LI17,anterior neck
+LI18,anterior neck
+LI19,face
+LI20,face
+ST1,face
+ST2,face
+ST3,face
+ST4,face
+ST5,face
+ST6,face
+ST7,face
+ST8,head
+ST9,neck
+ST10,anterior neck
+ST11,anterior neck
+ST12,anterior neck
+ST13,anterior thorax
+ST14,anterior thorax
+ST15,anterior thorax
+ST16,anterior thorax
+ST17,anterior thorax
+ST18,anterior thorax
+ST19,upper abdomen
+ST20,upper abdomen
+ST21,abdomen
+ST22,upper abdomen
+ST23,upper abdomen
+ST24,upper abdomen
+ST25,abdomen
+ST26,lower abdomen
+ST27,lower abdomen
+ST28,abdomen
+ST29,abdomen
+ST30,abdomen
+ST31,anterior thigh
+ST32,thigh
+ST33,anterior thigh
+ST34,thigh
+ST35,knee
+ST36,leg
+ST37,leg
+ST38,anterior leg
+ST39,leg
+ST40,anterolateral leg
+ST41,ankle
+ST42,foot
+ST43,foot
+ST44,foot
+ST45,toe
+SP1,toe
+SP2,great toe
+SP3,medial foot
+SP4,foot
+SP5,medial foot
+SP6,leg
+SP7,medial leg
+SP8,leg
+SP9,knee
+SP10,thigh
+SP11,medial thigh
+SP12,groin region
+SP13,lower abdomen
+SP14,lower abdomen
+SP15,abdomen
+SP16,upper abdomen
+SP17,anterior thorax
+SP18,anterior thorax
+SP19,anterior thorax
+SP20,anterior thorax
+SP21,chest
+HT1,armpit
+HT2,medial arm
+HT3,elbow
+HT4,anteromedial forearm
+HT5,forearm
+HT6,anteromedial forearm
+HT7,wrist
+HT8,hand
+HT9,finger
+SI1,finger
+SI2,hand/finger
+SI3,hand
+SI4,wrist
+SI5,wrist
+SI6,forearm
+SI7,posterior forearm
+SI8,elbow
+SI9,shoulder
+SI10,shoulder girdle
+SI11,scapular region
+SI12,scapular region
+SI13,scapular region
+SI14,upper back
+SI15,upper back
+SI16,anterior neck
+SI17,anterior neck
+SI18,face
+SI19,face
+BL1,face
+BL2,face
+BL3,head
+BL4,head
+BL5,head
+BL6,head
+BL7,head
+BL8,head
+BL9,head
+BL10,neck
+BL11,back
+BL12,back
+BL15,back
+BL18,back
+BL19,back
+BL20,back
+BL21,back
+BL22,lumbar
+BL23,lumbar
+BL24,lumbar
+BL25,lumbar
+BL26,lumbar
+BL27,sacral
+BL28,sacral
+BL29,sacral
+BL30,sacral
+BL31,sacral
+BL32,sacral
+BL33,sacral
+BL34,sacral
+BL35,buttock
+BL36,buttock
+BL37,prone
+BL38,knee
+BL39,knee
+BL40,knee
+BL41,back
+BL42,back
+BL43,back
+BL44,back
+BL45,back
+BL46,back
+BL47,back
+BL48,back
+BL49,back
+BL50,back
+BL51,lumbar
+BL52,lumbar
+BL53,buttock
+BL54,buttock
+BL55,leg
+BL56,leg
+BL57,leg
+BL58,leg
+BL59,leg
+BL60,ankle
+BL61,foot
+BL62,foot
+BL63,foot
+BL64,foot
+BL65,foot
+BL66,foot
+BL67,foot
+KI1,foot
+KI2,foot
+KI3,foot
+KI4,foot
+KI5,foot
+KI6,foot
+KI7,leg
+KI8,leg
+KI9,leg
+KI10,leg
+KI11,abdomen
+KI12,abdomen
+KI13,abdomen
+KI14,abdomen
+KI15,abdomen
+KI16,abdomen
+KI17,abdomen
+KI18,abdomen
+KI19,abdomen
+KI20,abdomen
+KI21,abdomen
+KI22,anterior thoracic
+KI23,anterior thoracic
+KI24,anterior thoracic
+KI25,anterior thoracic
+KI26,anterior thoracic
+KI27,anterior thoracic region
+PC1,anterior thoracic region
+PC2,anterior aspect of the arm
+PC3,anterior aspect of the elbow
+PC4,anterior forearm
+PC5,anterior forearm
+PC6,anterior forearm
+PC7,anterior wrist
+PC8,palm of the hand
+PC9,tip of the middle finger
+TE1,finger
+TE2,hand dorsum
+TE3,hand dorsum
+TE4,posterior wrist
+TE5,posterior forearm
+TE6,posterior forearm
+TE7,posterior forearm
+TE8,posterior forearm
+TE9,posterior forearm
+TE10,posterior elbow
+TE11,posterior arm
+TE12,posterior arm
+TE13,posterior arm
+TE14,shoulder girdle
+TE15,scapular region
+TE16,anterior neck
+TE17,anterior neck
+TE18,head
+TE19,head
+TE20,head
+TE21,face
+TE22,head
+TE23,head
+GB1,head
+GB2,face
+GB3,face
+GB4,side of head
+GB5,side of head
+GB6,side of head
+GB7,side of head
+GB8,side of head
+GB9,side of head
+GB10,side of head
+GB11,side of head
+GB12,neck
+GB13,forehead
+GB14,forehead
+GB15,forehead
+GB16,forehead
+GB17,parietal region
+GB18,parietal region
+GB19,parietal region
+GB20,neck
+GB21,shoulder
+GB22,chest
+GB23,side of torso
+GB24,chest
+GB25,abdomen
+GB26,abdomen
+GB27,abdomen
+GB28,abdomen
+GB29,hip
+GB30,buttock
+GB31,thigh
+GB32,thigh
+GB33,knee
+GB34,knee
+GB35,lower leg
+GB36,lower leg
+GB37,lower leg
+GB38,lower leg
+GB39,lower leg
+GB40,ankle
+GB41,foot
+GB42,foot
+GB43,foot
+GB44,foot
+LR1,foot
+LR2,foot dorsum
+LR3,foot dorsum
+LR4,ankle
+LR5,lower leg
+LR6,lower leg
+LR7,leg
+LR8,knee
+LR9,thigh
+LR10,thigh
+LR11,thigh
+LR12,groin
+LR13,abdomen
+LR14,chest
+GV16,neck
+GV20,head
+GV1,perineal region
+GV2,sacral region
+GV3,lumbar region
+GV4,lumbar region
+GV5,lumbar region
+GV6,upper back region
+GV7,upper back region
+GV8,upper back region
+GV9,upper back region
+GV10,upper back region
+GV11,upper back region
+GV12,upper back region
+GV13,upper back region
+GV14,posterior neck
+GV15,posterior neck
+GV16,posterior neck
+GV17,head
+GV18,head
+GV19,head
+GV20,head
+GV21,head
+GV22,head
+GV23,head
+GV24,head
+GV25,face
+GV26,face
+GV27,face
+GV28,face
+CV1,perineal
+CV2, Lower abdomen
+CV3, Lower abdomen
+CV4, Lower abdomen
+CV5, Lower abdomen
+CV6, Lower abdomen
+CV7, Lower abdomen
+CV8,Upper abdomen
+CV9,Upper abdomen
+ CV10,Upper abdomen
+ CV11,Upper abdomen
+CV12,Upper abdomen
+CV13,Upper abdomen
+CV14,Upper abdomen
+CV15,Upper abdomen
+CV16,Anterior thoracic
+CV17,Anterior thoracic
+CV18,Anterior thoracic
+CV19,Anterior thoracic
+CV20,Anterior thoracic
+CV21,Anterior thoracic
+CV22,Anterior neck
+CV23,Anterior neck
+CV24,face
